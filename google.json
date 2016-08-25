@@ -1,0 +1,37 @@
+{ 
+    "links" : {
+        "tech dev": "https://www.google.com/about/careers/students/guide-to-technical-development.html",
+        "gmail": {
+            "gmail": "https://gmail.google.com/",
+            "html email": "https://mail.google.com/mail/u/0/h/",
+            "mobile email": "http://m.gmail.com/"
+        },
+        "search" : "https://google.com/",
+        "google +": "https://plus.google.com/",
+        "photos": "https://plus.google.com/photos/yourphotos",
+        "reader": "http://www.google.com/reader/",
+        "voice": "https://www.google.com/voice/",
+        "calendar": "http://www.google.com/calendar/",
+        "docs": "http://drive.google.com/",
+        "maps": "http://maps.google.com/",
+        "analytics": {
+            "analytics": "https://www.google.com/analytics/web/?hl=en",
+            "j": "https://analytics.google.com/analytics/web/?hl=en#report/defaultid/a439245w47564276p47906572/"
+        },
+        "ad manager": "https://www.google.com/admanager/",
+        "adx": "https://www.google.com/adxseller/adx/app#home",
+        "youtube": "http://youtube.com/",
+        "translate": "http://translate.google.com/",
+        "domains": "https://domains.google.com",
+        "dev insights": "https://developers.google.com/speed/pagespeed/insights/",
+        "education": "https://www.google.com/edu/tools-and-solutions/guide-for-technical-development/",
+        "page speed": "https://developers.google.com/speed/pagespeed/insights/",
+        "web tools": "https://www.google.com/webmasters/tools/home?hl=en",
+        "social profiles": "https://developers.google.com/webmasters/structured-data/customize/social-profiles",
+        "data testing": "https://developers.google.com/webmasters/structured-data/testing-tool/",
+        "news dash": "https://partnerdash.google.com/partnerdash/d/news",
+        "two factor": "https://accounts.google.com/IssuedAuthSubTokens",
+        "apps dash": "https://admin.google.com/AdminHome",
+        "dash": "https://www.google.com/dashboard/b/0/?hl=en-US&pli=1"
+    }
+}

@@ -1,0 +1,10 @@
+{ 
+    "links" : {
+        "https://www.suncoastcreditunion.com/": "ssfcu",
+        "https://www.bankofamerica.com/index.jsp?page_msg=mbna": "mbna",
+        "https://www.americanexpress.com/": "amex",
+        "https://www.barclaycardus.com/": "barclays",
+        "https://chaseonline.chase.com/": "chase",
+        "http://verizon.com/myverizon": "verizon"
+    }
+}

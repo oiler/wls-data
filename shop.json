@@ -1,0 +1,16 @@
+{ 
+    "links" : {
+        "http://ebay.com/": "ebay",
+        "http://amazon.com/": "amazon",
+        "http://www.bestbuy.com/": "bestbuy",
+        "http://slickdeals.net/": "slickdeals",
+        "http://www.directv.com/": "directv",
+        "http://www.verizon.com/myverizon": "myverizon",
+        "http://www.attwireless.com/": "at&t",
+        "http://tec.inetbiller.com/": "teco",
+        "https://www22.verizon.com/myaccount/?ID=SignIn": "verizon",
+        "http://www.sprint.com/personal/wireless/manage.html": "sprint",
+        "http://www.stubhub.com/the-book-of-mormon-tickets/": "^mormon", 
+        "http://newyork.craigslist.org/search/sss?query=book+of+mormon&srchType=A&minAsk=&maxAsk=": "**cl"
+    }
+}

@@ -1,0 +1,40 @@
+{ 
+    "links" : {
+        "chelseapiers": "https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=division.home&division_id=2088",
+        "icedogs": "https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=team.home&team_id=16400",
+        "lg": "https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=team.home&team_id=16420",
+        "club": "http://www.chelseapiers.com/sc/club/index.cfm",
+        "zogsports": "http://www.zogsports.com/nyc/Home.aspx",
+        "zog map": "http://randallsisland.org/wordpress/wp-content/uploads/2010/04/RI-Bronx-Shore-Existing-Fields-No-Orientation-signs.pdf",
+        "ny craigslist": "http://newyork.craigslist.org/mnh/",
+        "tb craigslist": "http://tampa.craigslist.org/",
+        "tv": "http://tv.yahoo.com/grid?lineup=us_DITV539&genres=&all=1&dur=&starttime=&starthour=&startdate=&.intl=us",
+        "yahoo": "https://mail.yahoo.com",
+        "dodgeit": "http://mailinator.com/",
+        "indeed": "http://www.indeed.com/",
+        "simplyhired": "http://www.simplyhired.com/",
+        "wp jobs": "http://jobs.wordpress.net/",
+        "dice.com": "http://dice.com/",
+        "techmeme events": "http://www.techmeme.com/events",
+        "twork": {
+            "twork": "http://www.teamworkonline.com/xjobs.cfm?location=&s=&Category=WebCreativeServices&button.x=104&button.y=21&button=Submit",
+            "comm": "http://hockeyjobs.nhl.com/teamwork/jobs/jobs.cfm/Communications?supcat=214",
+            "tech": "http://hockeyjobs.nhl.com/teamwork/jobs/jobs.cfm/Technical-Services?supcat=224"
+        },
+        "craigslist": "http://newyork.craigslist.org/",
+        "fallon tix": "http://www.showclix.com/event/3915161",
+        "tds tix": "http://www.thedailyshow.com/tickets",
+        "colbert tix": "http://www.showclix.com/event/TheLateShowWithStephenColbert",
+        "guests": "http://www.interbridge.com/lineups.html#SC",
+        "barn": {
+            "barn": "https://www.bluehillfarm.com/reserve/stone-barns",
+            "ny": "https://www.bluehillfarm.com/reserve/new-york"
+        },
+        "ny cal": "http://www.newyorkology.com/archives/calendar/index.php",
+        "bpc regal": "http://www.movietickets.com/house_detail.asp?house_id=7333",
+        "aeropress": "https://www.stumptowncoffee.com/brew-guides/aeropress",
+        "remote jobs": "https://github.com/yanirs/established-remote/",
+        "the muse": "https://www.themuse.com/jobs",
+        "alt nation" : "http://blog.siriusxm.com/tag/alt-nation/"
+    }
+}

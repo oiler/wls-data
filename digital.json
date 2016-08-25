@@ -1,0 +1,47 @@
+{ 
+    "links" : {
+        "groupme": "https://app.groupme.com/chats",
+        "github": "https://github.com/oiler?tab=repositories",
+        "reader": "https://digg.com/reader/folder/New%20Feeds",
+        "feedly": "http://feedly.com/i/category/Product%20Blogs",
+        "tw adv search": "https://twitter.com/search-advanced?lang=en",
+        "twitter": {
+            "twitter": "https://www.twitter.com/",
+            "lists": "https://twitter.com/#!/oiler/lists",
+            "favorites": "https://twitter.com/#!/oiler/favorites"
+        },
+        "lists": {
+            "cfb": "https://twitter.com/#!/oiler/cfb",
+            "hockey": "https://twitter.com/#!/oiler/hockey",
+            "football": "https://twitter.com/#!/oiler/football",
+            "baseball": "https://twitter.com/#!/oiler/baseball"
+        },
+        "vellum links": "http://vellum.nytlabs.com/mylinks",
+        "facebook": {
+            "facebook": "http://ssl.facebook.com/",
+            "mobile fb": "http://m.facebook.com/"
+        },
+        "about.me": "http://about.me",
+        "tumblr": "http://www.tumblr.com/dashboard",
+        "pocket": "http://getpocket.com/a/queue/list/",
+        "instapaper": "http://www.instapaper.com/u",
+        "mint": "https://wwws.mint.com/overview.event",
+        "bit.ly": "http://bit.ly/",
+        "dropbox": "http://dropbox.com",
+        "foursquare": "https://foursquare.com/",
+        "reddit": "http://www.reddit.com/r/all/",
+        "wp": "http://oiler2.wordpress.com/wp-admin/",
+        "formstack": "https://www.formstack.com/admin/form/dashboard",
+        "aws": "https://console.aws.amazon.com/s3/home",
+        "ifttt": "http://ifttt.com/dashboard",
+        "prismatic": "http://getprismatic.com/newsfeed#",
+        "thinkup": "http://oiler.phpfogapp.com",
+        "hellofax": "http://hellofax.com",
+        "harvest": "https://foxlab.harvestapp.com/invoices?tab=open",
+        "trillian": "http://www.trillian.im/chat",
+        "pantheon": "https://dashboard.getpantheon.com/",
+        "photopea": "https://www.photopea.com/",
+        "trello": "https://trello.com/b/liWFfixx/oiler-fresh",
+        "my ip": "https://www.google.com/search?q=my+ip"
+    }
+}

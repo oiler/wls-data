@@ -1,0 +1,27 @@
+{ 
+    "links" : {
+        "screensiz.es": "http://screensiz.es/",
+        "jsonlint": "http://jsonlint.com/",
+        "webpagetest": "http://www.webpagetest.org/",
+        "page speed": "http://code.google.com/speed/page-speed/docs/rules_intro.html",
+        "centralops": "http://centralops.net/co/",
+        "mxtoolbox": "http://mxtoolbox.com/",
+        "W3C Validator": "http://validator.w3.org/",
+        "webdings": "http://www.nikmakris.com/images/blog/webding_characters.gif",
+        "password gen": "http://www.pctools.com/guides/password/",
+        "html5 plate": "http://html5boilerplate.com/",
+        "html5 rocks": "http://html5rocks.com/",
+        "initalizer": "http://www.initializr.com/",
+        "jsfiddle": "http://jsfiddle.net/",
+        "json viewer": "http://jsonviewer.stack.hu/",
+        "char count": "http://charactercounttool.com/",
+        "word to text": "http://jhy.io/tools/convert-word-to-plain-text",
+        "app inventor": "http://appinventor.mit.edu/",
+        "d crockford": "http://javascript.crockford.com/",
+        "jshomes resources": "https://github.com/jshomes/learning-resources",
+        "es6 compat": "https://kangax.github.io/compat-table/es6/",
+        "git modules": "https://blog.jacius.info/git-submodule-cheat-sheet/",
+        "git markdown preview": "http://tmpvar.com/markdown.html",
+        "js scene": "https://medium.com/javascript-scene"
+    }
+}

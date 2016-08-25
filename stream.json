@@ -1,0 +1,17 @@
+{ 
+    "links" : {
+        "pocketcasts": "https://play.pocketcasts.com/web#/podcasts/new_releases",
+        "netflix": "http://netflix.com/",
+        "espn": "http://espn.go.com/watchespn/",
+        "pandora": "http://pandora.com/",
+        "sling": "http://watch.slingbox.com/",
+        "tnt": "http://www.tnt.tv/video/?cid=61779",
+        "colbert report": "http://www.hulu.com/the-colbert-report",
+        "the daily show": "http://www.hulu.com/the-daily-show-with-jon-stewart",
+        "hnic": "http://www.cbc.ca/sports/hockeynightincanada/video/",
+        "amazon": "https://www.amazon.com/gp/video/library",
+        "hulu": "http://hulu.com",
+        "hbogo": "http://hbogo.com",
+        "60 minutes": "http://www.cbsnews.com/sections/60minutes/main3415.shtml"
+    }
+}

@@ -1,0 +1,41 @@
+{ 
+    "links" : {
+        "bp": "http://www.baseballprospectus.com/",
+        "mlb.com": {
+            "mlb.com": "http://mlb.mlb.com/",
+            "tv": "http://m.mlb.com/tv/",
+            "net": "http://m.mlb.com/network/live?mso_id=Verizon"
+        },
+        "yahoo": {
+            "yahoo": "http://sports.yahoo.com/mlb/",
+            "scores": "http://espn.go.com/mlb/scoreboard"
+        },
+        "fantasy": {
+            "fantasy": "http://baseball.fantasysports.yahoo.com/b1",
+            "hcbl": "http://baseball.fantasysports.yahoo.com/b1/36627/2",
+            "public": "http://baseball.fantasysports.yahoo.com/b1/147255/4"
+        },
+        "mabl": {
+            "mabl": "http://m-abl.baseball.cbssports.com/",
+            "players": "http://m-abl.baseball.cbssports.com/stats/stats-main",
+            "roster": "http://m-abl.baseball.cbssports.com/teams",
+            "live": "http://m-abl.baseball.cbssports.com/scoring/standard"
+        },
+        "espn": {
+            "espn": "http://games.espn.go.com/flb/leagueoffice?leagueId=242&teamId=4&seasonId=2016",
+            "live": "http://games.espn.go.com/flb/clubhouse?leagueId=242&teamId=4&seasonId=2016"
+        },
+        "mlb fantasy": "http://www.mlb.com/mlb/fantasy/news/",
+        "fox outside": "http://www.foxsports.com/mlb/just-a-bit-outside",
+        "depth charts": "http://mlbdepthcharts.com",
+        "nbc radio": "http://nbcsportsradio.com/",
+        "rotoworld": "http://www.rotoworld.com/playernews/mlb/baseball-player-news",
+        "savant": "http://baseballsavant.com/index.php",
+        "catcherSBs": "http://espn.go.com/mlb/stats/fielding/_/position/c/sort/catcherStolenBasesAllowed/qualified/false/order/false",
+        "SPs": "http://mlb.mlb.com/news/probable_pitchers/?tcid=nav_mlb_schedule",
+        "park factor": "http://espn.go.com/mlb/stats/parkfactor",
+        "covers matchups": "http://www.covers.com/sports/mlb/matchups",
+        "fangraphs": "http://www.fangraphs.com/",
+        "ballsandstrikes": "https://ballsandstrikes.co/"
+    }
+}

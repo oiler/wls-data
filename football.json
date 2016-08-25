@@ -26,8 +26,11 @@
         "sportsfrog": "http://sportsfrog.net",
         "yahoo cfb": {
             "yahoo cfb": "http://sports.yahoo.com/college-football/",
-            "scores": "http://espn.go.com/college-football/scoreboard/_/group/80/",
             "fantasy": "https://football.fantasysports.yahoo.com/college/5649/2"
+        },
+        "espn cfb": {
+            "espn cfb": "http://www.espn.com/college-football/",
+            "scores": "http://espn.go.com/college-football/scoreboard/_/group/80/"
         }
     }
 }

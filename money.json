@@ -1,10 +1,10 @@
 { 
     "links" : {
-        "https://www.suncoastcreditunion.com/": "ssfcu",
-        "https://www.bankofamerica.com/index.jsp?page_msg=mbna": "mbna",
-        "https://www.americanexpress.com/": "amex",
-        "https://www.barclaycardus.com/": "barclays",
-        "https://chaseonline.chase.com/": "chase",
-        "http://verizon.com/myverizon": "verizon"
+        "ssfcu": "https://www.suncoastcreditunion.com/",
+        "mbna": "https://www.bankofamerica.com/index.jsp?page_msg=mbna",
+        "amex": "https://www.americanexpress.com/",
+        "barclays": "https://www.barclaycardus.com/",
+        "chase": "https://chaseonline.chase.com/",
+        "verizon": "http://verizon.com/myverizon"
     }
 }

@@ -7,7 +7,11 @@
             "yahoo": "http://ca.sports.yahoo.com/nfl/",
             "scores": "http://ca.sports.yahoo.com/nfl/scoreboard"
         },
-        "fantasy": "http://football.fantasysports.yahoo.com/",
+        "fantasy": {
+            "fantasy": "http://football.fantasysports.yahoo.com/",
+            "hcfl": "http://football.fantasysports.yahoo.com/f1/40695/6",
+            "drbs": "http://football.fantasysports.yahoo.com/f1/187269/2"
+        },
         "espn": "http://games.espn.com/ffl/leagueoffice?leagueId=1381405&seasonId=2016",
         "fo": {
             "fo": "http://www.footballoutsiders.com/",

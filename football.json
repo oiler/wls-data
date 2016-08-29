@@ -8,7 +8,7 @@
             "scores": "http://ca.sports.yahoo.com/nfl/scoreboard"
         },
         "fantasy": "http://football.fantasysports.yahoo.com/",
-        "espn": "http://games.espn.go.com/ffl/clubhouse?leagueId=1381405&teamId=14&seasonId=2015",
+        "espn": "http://games.espn.com/ffl/leagueoffice?leagueId=1381405&seasonId=2016",
         "fo": {
             "fo": "http://www.footballoutsiders.com/",
             "snaps": "http://www.footballoutsiders.com/stats/snapcounts"

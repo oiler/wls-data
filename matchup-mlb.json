@@ -57,30 +57,7 @@
 	"pitcher bb%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=8,a&page=1_50",
 	"pitcher sws%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=5&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=11,d&page=1_50",
 	"pitcher gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=4,d&page=1_50",
-	"batter gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=6,a", 
+	"batter gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=6,a"
 
-	"NHL": "",
-	"nhl odds": "http://www.donbest.com/nhl/odds/",
-	"yahoo": "http://sports.yahoo.com/nhl/scoreboard",
-	"schedule": "http://forecaster.canada.com/faceoff/hockey/schedule.cgi",
-	"tott": "http://forecaster.canada.com/faceoff/hockey/tott.cgi?TB",
-	"goalie": "http://goaliepost.com/",
-	"daily faceoff": "http://www2.dailyfaceoff.com/starting-goalies/",
-	"team stats": "http://www.nhl.com/ice/teamstats.htm",
-	"rink blog": "http://www.nhl.com/ice/blog.htm?id=219",
-	"usa today": "http://sportsdirect.usatoday.com/matchups/nhl-matchups.aspx",
-
-	"NCAAF": "",
-	"don best lines": "http://www.donbest.com/ncaaf/odds/",
-	"matchups-cfb": "http://scores.covers.com/college-football-scores-matchups.aspx",
-	"lines-cfb": "http://www.covers.com/odds/football/college-football-odds.aspx",
-	"cfb picks": "http://www.handicapper.net/college-football-picks.php",
-	"football post": "http://www.nationalfootballpost.com/sports-betting-analysis.html",
-	"cfn": "http://cfn.scout.com/",
-	"rivals": "http://www.rivals.com/",
-	"ncaaf database": "http://stats.sportsbettingstats.com/Stats/Database/Football/NCAAF",
-	"espn haney": "http://insider.espn.go.com/blog/travis-haney/",
-	"espn steele": "http://search.espn.go.com/phil-steele/",
-	"steele": "http://www.philsteele.com"
 	}
 }

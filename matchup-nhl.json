@@ -1,0 +1,13 @@
+{"links" : {
+    "NHL": "",
+    "nhl odds": "http://www.donbest.com/nhl/odds/",
+    "yahoo": "http://sports.yahoo.com/nhl/scoreboard",
+    "schedule": "http://forecaster.canada.com/faceoff/hockey/schedule.cgi",
+    "tott": "http://forecaster.canada.com/faceoff/hockey/tott.cgi?TB",
+    "goalie": "http://goaliepost.com/",
+    "daily faceoff": "http://www2.dailyfaceoff.com/starting-goalies/",
+    "team stats": "http://www.nhl.com/ice/teamstats.htm",
+    "rink blog": "http://www.nhl.com/ice/blog.htm?id=219",
+    "usa today": "http://sportsdirect.usatoday.com/matchups/nhl-matchups.aspx"
+    }
+}

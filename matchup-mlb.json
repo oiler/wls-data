@@ -46,6 +46,7 @@
 	"MLB MATCHUPS": "",
 	"savant": "https://baseballsavant.mlb.com/daily_matchups",
 	"info BvsP": "http://dailybaseballdata.com/cgi-bin/dailyhit.pl",
+	"vs division": "http://proxy.espn.com/mlb/standings/_/type/vs-division",
 	"lineups": "http://www.baseballpress.com/lineups",
 	"pitcher fb%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=4,a",
 	"team fb%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=2&season=2016&month=0&season1=2016&ind=0&team=0,ts&rost=0&age=0&filter=&players=0&sort=6,d",

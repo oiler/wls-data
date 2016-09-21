@@ -1,7 +1,7 @@
 { 
     "links" : {
         "chelseapiers": "https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=division.home&division_id=2088",
-        "icedogs": "https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=team.home&team_id=16400",
+        "icedogs": "https://apps.dashplatform.com/dash/?action=team&teamid=5418#schedules",
         "lg": "https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=team.home&team_id=16420",
         "club": "http://www.chelseapiers.com/sc/club/index.cfm",
         "zogsports": "http://www.zogsports.com/nyc/Home.aspx",

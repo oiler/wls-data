@@ -30,13 +30,14 @@
         "bet trends": "https://www.sportsinsights.com/betting-trends/nfl-betting-trends/",
         "sportsfrog": "http://sportsfrog.net",
         "cfb news": "http://collegefootballnews.com/",
+        "cfb twitter": "http://athlonsports.com/college-football/twitter-accounts-every-college-football-fan-should-follow-2016-edition",
         "yahoo cfb": {
             "yahoo cfb": "http://sports.yahoo.com/college-football/",
             "fantasy": "https://football.fantasysports.yahoo.com/college/5649/2"
         },
         "espn cfb": {
             "espn cfb": "http://www.espn.com/college-football/",
-            "scores": "http://espn.go.com/college-football/scoreboard/_/group/80/"
+            "scores": "http://www.espn.com/college-football/scoreboard/_/group/80/year/2016/seasontype/2/"
         }
     }
 }

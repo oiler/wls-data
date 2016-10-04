@@ -37,7 +37,8 @@ export let config = {
             'money',
             'matchup-mlb',
             'matchup-nhl',
-            'matchup-cfb'
+            'matchup-cfb',
+            'matchup-all'
          ]
     },
     data: {

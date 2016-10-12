@@ -2,7 +2,8 @@
     "links" : {
         "nhl.com": {
             "nhl.com": "http://nhl.com",
-            "scores": "http://www.nhl.com/ice/scores.htm"
+            "scores": "http://www.nhl.com/ice/scores.htm",
+            "tv": "https://www.nhl.com/tv"
         },
         "fantasy": "http://hockey.fantasysports.yahoo.com/hockey/42215",
         "espnfantasy": "http://games.espn.com/fhl/clubhouse?leagueId=17107&teamId=1&seasonId=2017",

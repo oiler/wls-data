@@ -1,0 +1,16 @@
+{ "links" : {
+    "TOOLS": "",
+    "jira": "https://bankratecom.atlassian.net/secure/Dashboard.jspa",
+    "confluence": "https://bankratecom.atlassian.net/wiki/discover/all-updates",
+    "style guide": "https://drive.google.com/drive/folders/0B4ZkI04eFRMsMnVkb0V4Tm1VcHM",
+
+    "WEB": "",
+    "home": "http://www.bankrate.com/",
+    "news": "http://www.bankrate.com/news.aspx",
+    "mediakit": "http://www.bankrate.com/mediakit/ad-products.asp",
+
+    "NEWS": "",
+    "feedly": "http://feedly.com/atoiler/bankrate"
+    }
+}
+

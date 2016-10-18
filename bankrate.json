@@ -4,11 +4,18 @@
     "confluence": "https://bankratecom.atlassian.net/wiki/discover/all-updates",
     "style guide": "https://drive.google.com/drive/folders/0B4ZkI04eFRMsMnVkb0V4Tm1VcHM",
     "outlook": "https://exchange.intermedia.net/ControlPanel/Login?ClientType=WebMail",
+    "analytics": "https://analytics.google.com/analytics/web/#home/a55386262w88581009p92007919/",
 
     "WEB": "",
     "home": "http://www.bankrate.com/",
     "news": "http://www.bankrate.com/news.aspx",
     "mediakit": "http://www.bankrate.com/mediakit/ad-products.asp",
+
+    "CALS": "",
+    "auto loan": "http://www.bankrate.com/calculators/auto/auto-loan-calculator.aspx",
+    "mortgage loan": "http://www.bankrate.com/calculators/mortgages/loan-calculator.aspx",
+    "mortgage": "http://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx",
+    "amort": "http://www.bankrate.com/calculators/mortgages/amortization-calculator.aspx",
 
     "NEWS": "",
     "feedly": "http://feedly.com/atoiler/bankrate"

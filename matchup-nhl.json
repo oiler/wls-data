@@ -4,9 +4,13 @@
     "yahoo": "http://sports.yahoo.com/nhl/scoreboard",
     "newsday": "http://newsday.sportsdirectinc.com/sports-scores/Hockey-Scores-Matchups.aspx",
 
+    "NEWS": "",
+    "feedly": "https://feedly.com/i/category/Hockey",
+    "nhl beat": "https://twitter.com/oiler/lists/nhl-beat",
+
     "RESOURCES":"",
     "trends": "http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/trends/league/season1.html",
     "salami": "http://www.vegasinsider.com/nhl/story.cfm/story/1803126",
-    "usa today": "http://sportsdirect.usatoday.com/matchups/nhl-matchups.aspx"
+    "spy": "http://pregame.com/sportsbook_spy/default.aspx",
     }
 }

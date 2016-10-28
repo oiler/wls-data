@@ -7,6 +7,10 @@
     "trello": "https://trello.com/b/c3r7ap9Q/bankrate",
     "analytics": "https://analytics.google.com/analytics/web/#home/a55386262w88581009p92007919/",
 
+    "JIRA LINKS": "",
+    "ml activity": "https://bankratecom.atlassian.net/wiki/display/~mark.lewis",
+    "scrum teams": "https://bankratecom.atlassian.net/wiki/display/DW/Scrum+Teams",
+
     "WEB": "",
     "home": "http://www.bankrate.com/",
     "news": "http://www.bankrate.com/news.aspx",
@@ -19,7 +23,11 @@
     "amort": "http://www.bankrate.com/calculators/mortgages/amortization-calculator.aspx",
 
     "NEWS": "",
-    "feedly": "http://feedly.com/atoiler/bankrate"
+    "feedly": "http://feedly.com/atoiler/bankrate",
+
+    "HR": "",
+    "adp workforce": "https://workforcenow.adp.com/public/index.htm",
+    "adp my": "https://my.adp.com/static/redbox/login.html"
     }
 }
 

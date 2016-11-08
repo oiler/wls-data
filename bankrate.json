@@ -23,6 +23,14 @@
     "mortgage": "http://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx",
     "amort": "http://www.bankrate.com/calculators/mortgages/amortization-calculator.aspx",
 
+    "mortgage": "http://www.bankrate.com/mortgage.aspx",
+    "groupb": "http://www.bankrate.com/partners/sem/mortgage-groupb.aspx",
+    "calcs": "http://www.bankrate.com/calculators.aspx",
+    "simple savings": "http://www.bankrate.com/calculators/savings/simple-savings-calculator.aspx",
+    "mrates": "http://www.bankrate.com/partners/sem/mortgage-calculator-rates.aspx",
+    "arates": "http://www.bankrate.com/partners/sem/auto-loan-calculator-rates",
+    "v2": "http://www.bankrate.com/partners/sem/loan-calculator-v2",
+    "moving": "http://www.bankrate.com/calculators/savings/moving-cost-of-living-calculator.aspx",
 
     "NEWS": "",
     "feedly": "http://feedly.com/atoiler/bankrate",
@@ -31,7 +39,4 @@
     "adp workforce": "https://workforcenow.adp.com/public/index.htm",
     "adp my": "https://my.adp.com/static/redbox/login.html"
     }
-}`
-
-
-
+}

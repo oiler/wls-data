@@ -9,7 +9,6 @@
     "bet trends": "https://www.sportsinsights.com/betting-trends/college-football-betting-trends/",
     "trends raw": "https://account.sportsinsights.com/partners/content.aspx?sport_id=11&A=23",
 
-
     "NCAAF": "",
     "schedule": "http://www.espn.com/college-football/schedule",
     "scores": "http://www.espn.com/college-football/scoreboard/_/group/80/year/2016/seasontype/2/week/1",
@@ -30,6 +29,7 @@
     "fo fplus": "http://www.footballoutsiders.com/stats/fplus",
     "glossery": "http://www.footballstudyhall.com/2015/2/9/8001137/college-football-advanced-stats-glossary",
     "massey comp": "http://www.masseyratings.com/cf/compare.htm",
+    "prediction tracker": "http://www.thepredictiontracker.com/ncaaresults.php?orderby=wpct%20desc&type=1&year=16",
 
     "FCS": "",
     "fcs.football": "http://www.fcs.football/fcsfront.asp",

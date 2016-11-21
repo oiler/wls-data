@@ -4,30 +4,32 @@
         "deadspin": "http://deadspin.com/",
         "rewind": "https://gamerewind.nfl.com/nflgr/secure/schedule",
         "yahoo": {
-            "yahoo": "http://ca.sports.yahoo.com/nfl/",
-            "scores": "http://ca.sports.yahoo.com/nfl/scoreboard"
+            "yahoo": "http://www.sports.yahoo.com/nfl/",
+            "scores": "http://sports.yahoo.com/nfl/scoreboard/"
         },
         "fantasy": {
             "fantasy": "http://football.fantasysports.yahoo.com/",
             "hcfl": "http://football.fantasysports.yahoo.com/f1/40695/6",
             "drbs": "http://football.fantasysports.yahoo.com/f1/187269/2"
         },
-        "espn": "http://games.espn.com/ffl/leagueoffice?leagueId=1381405&seasonId=2016",
+        "espn": {
+            "espn": "http://games.espn.com/ffl/leagueoffice?leagueId=1381405&seasonId=2016",
+            "scores": "http://www.espn.com/nfl/scoreboard"
+        },
         "fo": {
             "fo": "http://www.footballoutsiders.com/",
             "snaps": "http://www.footballoutsiders.com/stats/snapcounts"
         },
-        "grantland": "http://www.grantland.com/",
         "pft": "http://profootballtalk.nbcsports.com/",
         "pfweek": "http://www.profootballweekly.com/",
         "smart": "http://smartfootball.com/",
         "borischen": "http://www.borischen.co/",
         "espn ffpa": "http://games.espn.go.com/ffl/pointsagainst",
+        "ypp": "https://www.teamrankings.com/nfl/stat/yards-per-play",
         "fguys": { 
             "fguys": "http://subscribers.footballguys.com/apps/news.php",
             "idp": "http://forums.footballguys.com/forum/index.php?s=2bc00ce9facf1f0a805aa565ead01549&showtopic=713437"
         },
-        "bet trends": "https://www.sportsinsights.com/betting-trends/nfl-betting-trends/",
         "sportsfrog": "http://sportsfrog.net",
         "cfb news": "http://collegefootballnews.com/",
         "cfb twitter": "http://athlonsports.com/college-football/twitter-accounts-every-college-football-fan-should-follow-2016-edition",
@@ -37,7 +39,7 @@
         },
         "espn cfb": {
             "espn cfb": "http://www.espn.com/college-football/",
-            "scores": "http://www.espn.com/college-football/scoreboard/_/group/80/year/2016/seasontype/2/"
+            "scores": "http://www.espn.com/college-football/scoreboard/_/year/2016/seasontype/2/week/"
         }
     }
 }

@@ -12,8 +12,14 @@
     "analytics": "https://analytics.google.com/analytics/web/#home/a55386262w88581009p92007919/",
 
     "JIRA LINKS": "",
+    "rev prod overview": "https://bankratecom.atlassian.net/wiki/display/RP/Overview",
+    "rev prod roadmap": "https://bankratecom.atlassian.net/wiki/display/RP/Roadmap",
     "ml activity": "https://bankratecom.atlassian.net/wiki/display/~mark.lewis",
     "scrum teams": "https://bankratecom.atlassian.net/wiki/display/DW/Scrum+Teams",
+
+    "WIKI": "",
+    "wiki": "http://wiki.bankrate.com/",
+    "conference rooms": "http://wiki.bankrate.com/wiki/1426/highfive-video-conferencing",
 
     "WEB": "",
     "home": "http://www.bankrate.com/",
@@ -25,7 +31,6 @@
     "mortgage loan": "http://www.bankrate.com/calculators/mortgages/loan-calculator.aspx",
     "mortgage": "http://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx",
     "amort": "http://www.bankrate.com/calculators/mortgages/amortization-calculator.aspx",
-
     "mortgage": "http://www.bankrate.com/mortgage.aspx",
     "groupb": "http://www.bankrate.com/partners/sem/mortgage-groupb.aspx",
     "calcs": "http://www.bankrate.com/calculators.aspx",
@@ -39,6 +44,7 @@
     "feedly": "http://feedly.com/atoiler/bankrate",
 
     "HR": "",
+    "people/roles": "https://docs.google.com/document/d/1hl3pwhBtbycxHuhpkdD72mtByXaZlKFR6cdz9UMoWgc/edit",
     "adp workforce": "https://workforcenow.adp.com/public/index.htm",
     "adp my": "https://my.adp.com/static/redbox/login.html"
     }

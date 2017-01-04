@@ -8,6 +8,10 @@
     "feedly": "https://feedly.com/i/category/Hockey",
     "nhl beat": "https://twitter.com/oiler/lists/nhl-beat",
 
+    "DATA": "",
+    "home favs": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+%3D+2016+and+month+%21%3D+10+and+o%3Arest%3C%3D1+and+site%3Dhome+and+-200%3Cline%3C-150&submit=++S+D+Q+L+%21++",
+    "away nonconf": "season = 2016 and month != 10 and site=away and total=5.5 and conference!=o:conference",
+
     "RESOURCES":"",
     "trends": "http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/trends/league/season1.html",
     "shrpsports": "http://www.shrpsports.com/nhl/result.htm",

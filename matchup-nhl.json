@@ -13,6 +13,12 @@
     "away nonconf": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+%3D+2016+and+month+%21%3D+10+and+site%3Daway+and+total%3D5.5+and+conference%21%3Do%3Aconference&submit=++S+D+Q+L+%21++",
     "away avg line": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2010+and+line%3EAverage%28line%40team+and+season%2C+N%3D10%29+and+site%3Daway+and+total%3E5&submit=++S+D+Q+L+%21++",
     "home fav avg line": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2010+and+line%3CAverage%28line%40team+and+season%29+and+site%3Dhome+and+line%3C0&submit=++S+D+Q+L+%21++",
+    "under away no rest": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+and+site%3Daway+and+rest%3D0+and+total%3D5.5&submit=++S+D+Q+L+%21++",
+    "tired away teams": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3D2016+and+site%3Daway+and+Average%28rest%40team+and+season%2C+N%3D4%29%3C1.2&submit=++S+D+Q+L+%21++",
+    "away teams against tired home teams": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+site%3Daway+and+Average%28o%3Arest%40o%3Ateam+and+season%2C+N%3D9%29%3C1&submit=++S+D+Q+L+%21++",
+    "january rested away favs": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+month%3D1+and+site%3Daway+and+line%3C0+and+rest%3E1&submit=++S+D+Q+L+%21++",
+    
+
 
     "RESOURCES":"",
     "trends": "http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/trends/league/season1.html",

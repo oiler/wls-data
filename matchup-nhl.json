@@ -19,7 +19,10 @@
     "rested away favs": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+site%3Daway+and+line%3C0+and+rest%3E1&submit=++S+D+Q+L+%21++",
     "high scoring away dogs": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+%3E+2006+and+site%3Daway+and+P%3Aou+margin%3E0+and+total%3E5+and+line%3E0&submit=++S+D+Q+L+%21++",
     "home fav off close game": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+%3E+2006+and+site%3Dhome+and+0.5%3E%3Dp%3Aou+margin%3E%3D-0.5+and+1%3E%3Dp%3Amargin%3E%3D-1+and+-175%3Cline%3C-110&submit=++S+D+Q+L+%21++",
-    
+    "away trip last game": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+site%3Daway+and+site+streak%3C-1+and+n%3Asite%3Dhome+and+line%3E0&submit=++S+D+Q+L+%21++",
+    "home stand last game": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+site%3Dhome+and+site+streak%3E2+and+p%3Asite%3Dhome+and+n%3Asite%3Daway+and+rest%3E0&submit=++S+D+Q+L+%21++",
+    "away 3rd in 4": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+Sum%28rest%40team+and+season%2C+N%3D1%29%3D1+and+site%3Daway+and+rest%3D0&submit=++S+D+Q+L+%21++",
+
     
 
 

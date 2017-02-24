@@ -6,6 +6,7 @@
             "tv": "http://m.mlb.com/tv/",
             "net": "http://m.mlb.com/network/live?mso_id=Verizon"
         },
+        "lineups": "https://docs.google.com/spreadsheets/d/17cagXTP6ZZ3efgkOr76GdqJKJ5_8dagwBWBEgxp589U/",
         "yahoo": {
             "yahoo": "http://sports.yahoo.com/mlb/",
             "scores": "http://espn.go.com/mlb/scoreboard"

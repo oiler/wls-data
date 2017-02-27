@@ -34,6 +34,7 @@
 
     "EXPLAINERS": "",
     "event listener": "https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md",
+    "loupe": "http://latentflip.com/loupe/",
     "this": "http://rainsoft.io/gentle-explanation-of-this-in-javascript"
     }
 }

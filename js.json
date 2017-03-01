@@ -13,6 +13,7 @@
     "sander fs lib": "https://www.npmjs.com/package/sander",
 
     "ES6": "",
+    "css tricks": "https://css-tricks.com/transpiling-es6/",
     "es6 modules": "https://www.youtube.com/watch?v=qi_rLTcXers",
     "es6-cheatsheet": "https://github.com/DrkSephy/es6-cheatsheet",
     "es6-compatibility": "https://kangax.github.io/compat-table/es6/",

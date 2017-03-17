@@ -7,6 +7,7 @@
     "postMessage": "https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage",
     "args and params": "https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/?utm_source=javascriptweekly&utm_medium=email",
     "youmightnotneedjquery": "http://youmightnotneedjquery.com/",
+    "dev tools": "https://developer.chrome.com/devtools#debugging-javascript",
     "plain js": "https://plainjs.com/javascript/",
 
     "Node": "",
@@ -17,6 +18,7 @@
     "es6 modules": "https://www.youtube.com/watch?v=qi_rLTcXers",
     "es6-cheatsheet": "https://github.com/DrkSephy/es6-cheatsheet",
     "es6-compatibility": "https://kangax.github.io/compat-table/es6/",
+    "video- functional": "https://www.youtube.com/watch?v=HvMemAgOw6I",
 
     "REGEX": "",
     "regulex": "https://jex.im/regulex",
@@ -32,6 +34,7 @@
     "sw precache": "https://github.com/GoogleChrome/sw-precache",
     "sw libs": "https://developers.google.com/web/tools/service-worker-libraries/?hl=en",
     "sw install": "https://philna.sh/blog/2016/08/17/install-a-service-worker-declaratively/",
+    "filament": "https://www.filamentgroup.com/lab/modernizing-delivery.html",
 
     "EXPLAINERS": "",
     "event listener": "https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md",

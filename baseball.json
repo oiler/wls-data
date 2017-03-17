@@ -21,16 +21,17 @@
             "roster": "http://m-abl.baseball.cbssports.com/teams",
             "live": "http://m-abl.baseball.cbssports.com/scoring/standard"
         },
+        "espn": {
+            "espn": "http://www.espn.com/fantasy/baseball/",
+            "live": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2017",
+            "find league": "https://www.reddit.com/r/findaleague/search?q=espn+roto&restrict_sr=on&t=day",
+        },
         "uandi": {
             "u&i fb": "https://www.facebook.com/groups/398888906854580/",
-            "rookies": "https://www.facebook.com/groups/398888906854580/permalink/1255712541172208/",
+            "espn": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2017",
             "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
             "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/",
             "b2017": "https://docs.google.com/spreadsheets/d/1NBPlglzYcSf1Dp9j4Ly8TqAqvN97G-VsvahTd_G-uj8/"
-        },
-        "espn": {
-            "espn": "http://www.espn.com/fantasy/baseball/",
-            "live": "http://games.espn.go.com/flb/clubhouse?leagueId=242&teamId=4&seasonId=2016"
         },
         "mlb fantasy": "http://www.mlb.com/mlb/fantasy/news/",
         "fox outside": "http://www.foxsports.com/mlb/just-a-bit-outside",

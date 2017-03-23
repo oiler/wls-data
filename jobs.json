@@ -1,6 +1,11 @@
 { 
     "links" : {
-        "product hunt remote": "https://www.producthunt.com/e/find-a-remote-job",
+        "REMOTE": "",
+        "product hunt": "https://www.producthunt.com/e/find-a-remote-job",
+        "remote ok": "https://remoteok.io/remote-jobs",
+        "weworkremotely": "https://weworkremotely.com/",
+
+        "OTHER": "",
         "no whiteboard": "https://github.com/poteto/hiring-without-whiteboards"
 
    }

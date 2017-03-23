@@ -15,6 +15,16 @@
     "PROJECTS": "",
     "purepoint": "https://bankratecom.atlassian.net/wiki/display/RP/PurePoint+Redesign+Sponsor",
     "sponsored content": "https://bankratecom.atlassian.net/wiki/display/RP/Sponsored+Content+Articles",
+    "design epic for sc": "https://bankratecom.atlassian.net/browse/PIX-595",
+
+    "SC REVIEW": "",
+    "https://s3.amazonaws.com/oiler/work/bankrate/capitalone-editorial.html": "cap one edt",
+    "https://s3.amazonaws.com/oiler/work/bankrate/capitalone-branded.html": "cap one bsc",
+    "https://s3.amazonaws.com/oiler/work/bankrate/aag-editorial.html": "aag edt",
+    "https://s3.amazonaws.com/oiler/work/bankrate/aag-branded.html": "aag bcs",
+    "https://s3.amazonaws.com/oiler/work/bankrate/vu-editorial.html": "vu edt",
+    "https://s3.amazonaws.com/oiler/work/bankrate/vu-branded.html": "vu bcs",
+    "https://s3.amazonaws.com/oiler/work/bankrate/synchrony-editorial.html": "syn edt",
 
     "JIRA LINKS": "",
     "rev prod overview": "https://bankratecom.atlassian.net/wiki/display/RP/Overview",

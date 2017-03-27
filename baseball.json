@@ -35,7 +35,10 @@
         },
         "mlb fantasy": "http://www.mlb.com/mlb/fantasy/news/",
         "fox outside": "http://www.foxsports.com/mlb/just-a-bit-outside",
-        "depth charts": "http://mlbdepthcharts.com",
+        "depth charts" {
+            "depth charts": "https://docs.google.com/spreadsheets/d/1eBIbmN_AZo7xauYzWY245f7hxCBmg1la818zcI1AAM8/pubhtml",
+            "site depth charts": "http://mlbdepthcharts.com"
+        },
         "nbc radio": "http://nbcsportsradio.com/",
         "rotoworld": "http://www.rotoworld.com/playernews/mlb/baseball-player-news",
         "ba 100mph": "http://www.baseballamerica.com/viewpoint/ask-ba-minors-100-mph-pitchers/#RkbRm0R5JKQVy4wL.97",

@@ -30,6 +30,9 @@
 
     "HR": "",
     "adp workforce": "https://workforcenow.adp.com/public/index.htm",
-    "adp my": "https://my.adp.com/static/redbox/login.html"
+    "adp my": "https://my.adp.com/static/redbox/login.html",
+
+    "JIRA": "",
+    "reportedbyme": "https://bankratecom.atlassian.net/projects/CON/issues/?filter=reportedbyme"
     }
 }

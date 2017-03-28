@@ -9,11 +9,15 @@
         "lineups": "https://docs.google.com/spreadsheets/d/17cagXTP6ZZ3efgkOr76GdqJKJ5_8dagwBWBEgxp589U/",
         "yahoo": {
             "yahoo": "http://sports.yahoo.com/mlb/",
-            "scores": "http://espn.go.com/mlb/scoreboard"
+            "scores": "http://sports.yahoo.com/mlb/scoreboard/",
+            "espnscores": "http://espn.go.com/mlb/scoreboard"
         },
         "fantasy": {
             "fantasy": "http://baseball.fantasysports.yahoo.com/b1",
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/37159/5"
+            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/37159/5",
+            "20": "https://baseball.fantasysports.yahoo.com/b1/104959/3",
+            "moneyball": "https://baseball.fantasysports.yahoo.com/b1/70644/9",
+            "bp": "https://baseball.fantasysports.yahoo.com/b1/128484/3"
         },
         "mabl": {
             "mabl": "http://m-abl.baseball.cbssports.com/",
@@ -23,12 +27,12 @@
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",
-            "live": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2017",
+            "uandi": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2017",
+            "men": "http://games.espn.com/flb/clubhouse?leagueId=111240&teamId=2&seasonId=2017",
             "find league": "https://www.reddit.com/r/findaleague/search?q=espn+roto&restrict_sr=on&t=day"
         },
-        "uandi": {
+        "uandi docs": {
             "u&i fb": "https://www.facebook.com/groups/398888906854580/",
-            "espn": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2017",
             "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
             "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/",
             "b2017": "https://docs.google.com/spreadsheets/d/1NBPlglzYcSf1Dp9j4Ly8TqAqvN97G-VsvahTd_G-uj8/"

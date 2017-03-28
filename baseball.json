@@ -16,8 +16,7 @@
             "scores": "http://sports.yahoo.com/mlb/scoreboard/",
             "espnscores": "http://espn.go.com/mlb/scoreboard"
         },
-        "fantasy": {
-            "fantasy": "http://baseball.fantasysports.yahoo.com/b1",
+        "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/37159/5",
             "twenty": "https://baseball.fantasysports.yahoo.com/b1/104959/3",
             "moneyball": "https://baseball.fantasysports.yahoo.com/b1/70644/9",

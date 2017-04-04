@@ -33,6 +33,7 @@
     "adp my": "https://my.adp.com/static/redbox/login.html",
 
     "JIRA": "",
+    "backlog": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=32&view=planning.nodetail&quickFilter=84&epics=visible",
     "reportedbyme": "https://bankratecom.atlassian.net/projects/CON/issues/?filter=reportedbyme"
     }
 }

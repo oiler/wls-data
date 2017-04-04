@@ -3,7 +3,7 @@
         "groupme": "https://app.groupme.com/chats",
         "github": "https://github.com/oiler?tab=repositories",
         "notes": {
-            "notes": "https://github.com/oiler/notes",
+            "nt": "https://github.com/oiler/notes",
             "shortcuts": "https://github.com/oiler/notes/blob/master/shortcuts.md",
             "javascript": "https://github.com/oiler/notes/blob/master/javascript.md",
             "node": "https://github.com/oiler/notes/blob/master/node.md",

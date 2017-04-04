@@ -2,6 +2,12 @@
     "links" : {
         "groupme": "https://app.groupme.com/chats",
         "github": "https://github.com/oiler?tab=repositories",
+        "notes": {
+            "shortcuts": "https://github.com/oiler/notes/blob/master/shortcuts.md",
+            "javascript": "https://github.com/oiler/notes/blob/master/javascript.md",
+            "node": "https://github.com/oiler/notes/blob/master/node.md",
+            "bash": "https://github.com/oiler/notes/blob/master/bash.md"
+        },
         "feedly": "https://feedly.com/i/my",
         "reader": "https://digg.com/reader/folder/New%20Feeds",
         "tw adv search": "https://twitter.com/search-advanced?lang=en",

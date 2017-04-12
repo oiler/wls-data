@@ -35,6 +35,7 @@
     "CONTENT JIRA": "",
     "backlog": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=32&view=planning.nodetail&quickFilter=84&epics=visible",
     "reportedbyme": "https://bankratecom.atlassian.net/projects/CON/issues/?filter=reportedbyme",
+    "Open & ByMe": "https://bankratecom.atlassian.net/issues/?filter=20201",
 
     "PAT JIRA": "",
     "backlog": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=67&view=planning"

@@ -7,6 +7,8 @@
 	"fezzik": "http://lvasports.com/index.cfm",
 	"lva boards": "http://www.lvasportsboards.com/",
 	"covers": "http://www.covers.com/",
+	"c matchups": "http://www.covers.com/sports/mlb/matchups",
+	"league trends": "http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/trends/league/season7.html",
 	"service plays": "http://forum.sbrforum.com/service-plays/",
 	"rx service": "http://www.therxforum.com/forumdisplay.php?f=216",
 	"a1": "http://a1serviceplays.com/forums/service-plays/",
@@ -15,7 +17,7 @@
 	"insights": "http://www.sportsinsights.com/blog/",
 	"betlabs": "http://www.sportsinsights.com/betlabs/dashboard.aspx",
 	"book spy": "http://pregame.com/sportsbook_spy/default.aspx",
-	"mlb query": "http://sportsdatabase.com/mlb/query",
+	"mlb query": "http://sportsdatabase.com/mlb/query?output=default&su=1&ou=1&sdql=playoffs%3D0+and+season%3E2010+and+site&submit=++S+D+Q+L+%21++",
 
 	"MLB": "",
 	"mlb odds": "http://www.donbest.com/mlb/odds/",

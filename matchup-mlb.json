@@ -65,7 +65,8 @@
 	"pitcher contact% bad": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=sta&lg=all&qual=10&type=5&season=2017&month=3&season1=2017&ind=0&team=0&rost=0&age=0&filter=&players=0",
 	"pitcher sws%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=sta&lg=all&qual=10&type=5&season=2017&month=3&season1=2017&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=11,d&page=1_50",
 	"pitcher sws% bad": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=sta&lg=all&qual=10&type=5&season=2017&month=3&season1=2017&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=11,a&page=1_50",
-	"pitcher gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=2&season=2017&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=4,d&page=1_50",
+	"pitcher gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=sta&lg=all&qual=10&type=2&season=2017&month=3&season1=2017&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=4,d&page=1_50",
+	"pitcher fbgb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=sta&lg=all&qual=10&type=2&season=2017&month=3&season1=2017&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=4,a&page=1_50",
 	"batter gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=2&season=2017&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=6,a"
 
 	}

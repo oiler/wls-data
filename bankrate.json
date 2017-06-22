@@ -16,6 +16,9 @@
     "O RATES": "",
     "orm confl": "https://bankratecom.atlassian.net/wiki/spaces/OMR",
     "orm jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=93&view=planning",
+    "jira - epics": "https://bankratecom.atlassian.net/issues/?filter=22200",
+    "jira - story": "https://bankratecom.atlassian.net/issues/?filter=22201",
+    "jira - tasks": "https://bankratecom.atlassian.net/issues/?filter=22202",
 
     "PROJECTS": "",
     "redesign": "https://bankratecom.atlassian.net/wiki/display/RP/2016+Redesign",

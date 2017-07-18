@@ -1,6 +1,7 @@
 { 
     "links" : {
         "pocketcasts": "https://play.pocketcasts.com/web#/podcasts/new_releases",
+        "wnyc": "http://www.wnyc.org/stream/wnyc-fm939/aac.pls",
         "netflix": "http://netflix.com/",
         "espn": "http://espn.go.com/watchespn/",
         "pandora": "http://pandora.com/",

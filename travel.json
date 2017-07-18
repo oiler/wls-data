@@ -18,6 +18,8 @@
 	"60 days": "http://www.convertunits.com/dates/daysfromnow/60",
 	"cph to usa": "https://www.google.com/flights/#search;f=CPH;t=FLL,MCO,JFK;tt=o;a=DY;s=0",
 	"usa to cph": "https://www.google.com/flights/#search;f=FLL,MCO,JFK;t=CPH;tt=o;a=DY;s=0",
+	"sofla to nyc": "https://www.google.com/flights/#search;f=JFK,EWR,LGA;t=MCO,PBI,FLL;tt=o;s=0",
+	"nyc to sofla": "https://www.google.com/flights/#search;f=MCO,PBI,FLL;t=JFK,EWR,LGA;tt=o;s=0",
 	"google flights": "http://www.google.com/flights/"
 	}
 }

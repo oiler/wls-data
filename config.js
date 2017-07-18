@@ -35,7 +35,6 @@ export let config = {
             'wp',
             'mlb',
             'travel',
-            'money',
             'matchup-mlb',
             'matchup-nhl',
             'matchup-cfb',

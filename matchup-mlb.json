@@ -17,7 +17,13 @@
 	"insights": "http://www.sportsinsights.com/blog/",
 	"betlabs": "http://www.sportsinsights.com/betlabs/dashboard.aspx",
 	"book spy": "http://pregame.com/sportsbook_spy/default.aspx",
-	"mlb query": "http://sportsdatabase.com/mlb/query?output=default&su=1&ou=1&sdql=playoffs%3D0+and+season%3E2010+and+site&submit=++S+D+Q+L+%21++",
+
+	"QUERY": "",
+	"q base": "http://sportsdatabase.com/mlb/query?output=default&su=1&ou=1&sdql=playoffs%3D0+and+season%3E2010+and+site&submit=++S+D+Q+L+%21++",
+	"q under": "http://sportsdatabase.com/mlb/query?output=default&su=1&ou=1&sdql=playoffs%3D0+and+season%3D2017+and+110%3Cline%3C200+and+over%3E-110+and+total%3E8+and+game+number%3E60&submit=++S+D+Q+L+%21++",
+	"q over": "http://sportsdatabase.com/mlb/query?output=default&su=1&ou=1&sdql=playoffs%3D0+and+season%3E%3D2017+and+site%3Dhome+and+total%3E8+and+over%3C-115&submit=++S+D+Q+L+%21++",
+	"q RL dogs": "http://sportsdatabase.com/mlb/query?output=default&su=1&ou=1&rl=1&sdql=playoffs%3D0+and+season%3E2010+and+site%3Daway+and+150%3Eline%3E-115+and+run+line%3C-175+and+8.5%3E%3Dtotal%3E%3D6.5+and+site+streak%3C6&submit=++S+D+Q+L+%21++",
+	
 
 	"MLB": "",
 	"mlb odds": "http://www.donbest.com/mlb/odds/",

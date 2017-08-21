@@ -8,7 +8,7 @@
             "scores": "http://sports.yahoo.com/nfl/scoreboard/"
         },
         "fantasy": {
-            "fantasy": "http://football.fantasysports.yahoo.com/",
+            "fan": "http://football.fantasysports.yahoo.com/",
             "hcfl": "https://football.fantasysports.yahoo.com/f1/45844/7",
             "drbs": "https://football.fantasysports.yahoo.com/f1/79631/4",
             "twl": "http://www.thewagerleagues.com/myleagues.aspx",

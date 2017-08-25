@@ -14,12 +14,22 @@
     "ad inventory": "https://docs.google.com/spreadsheets/d/1InIUP0C5W5ZUWBpukwuCfO9hONzSvXvn95y6Qjx6hAU/",
 
     "O RATES": "",
-    "orm confl": "https://bankratecom.atlassian.net/wiki/spaces/OMR",
-    "orm jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=93&view=planning",
+    "omr confl": "https://bankratecom.atlassian.net/wiki/spaces/OMR",
+    "omr jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=93&view=planning",
     "jira - epics": "https://bankratecom.atlassian.net/issues/?filter=22200",
     "jira - story": "https://bankratecom.atlassian.net/issues/?filter=22201",
     "jira - tasks": "https://bankratecom.atlassian.net/issues/?filter=22202",
     "release cal": "https://docs.google.com/a/caring.com/spreadsheets/d/1uRcTYPnswh6xIFoVuCaWTQ6zZ6GjRJXJmh-E5LPoNY8/edit?usp=sharing",
+
+    "HTTPS": "",
+    "https jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=105&view=planning",
+
+    "DATA INF": "",
+    "di confl": "https://bankratecom.atlassian.net/wiki/spaces/DI/pages",
+
+    "CONTENT": "",
+    "con confl": "https://bankratecom.atlassian.net/wiki/spaces/CT/overview",
+    "con jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=32&view=planning",
 
     "PROJECTS": "",
     "redesign": "https://bankratecom.atlassian.net/wiki/display/RP/2016+Redesign",

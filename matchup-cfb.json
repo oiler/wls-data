@@ -27,7 +27,6 @@
     "phil steele": "http://www.philsteele.com",
     "powers posts": "https://pregame.com/pros/brad-powers/posts",
     "powers twitter": "https://twitter.com/bradpowers7?lang=en",
-    
 
     "RANKINGS": "",
     "fo s&p": "http://www.footballoutsiders.com/stats/ncaa",
@@ -49,19 +48,18 @@
     "FSC Conferences": "",
     "teams": "http://www.fcs.football/cfb/teams.asp?div=fcs",
     "conf rankings": "http://www.fcsinsider.com/news/articles/2016/441/stats-reviews-fcs-conference-rankings/",
-    "missouri valley": "http://www.fcs.football/cfb/story.asp?i=20160825111400363875304",
-    "caa": "http://www.fcs.football/cfb/story.asp?i=20160817113347075781804",
-    "big sky": "http://www.fcs.football/cfb/story.asp?i=20160810112451246486204",
-    "southern": "http://www.fcs.football/cfb/story.asp?i=20160816120119832497504",
-    "southland": "http://www.fcs.football/cfb/story.asp?i=20160818121706590247504",
-    "ohio valley": "http://www.fcs.football/cfb/story.asp?i=20160812114642124259204",
-    "big south": "http://www.fcs.football/cfb/story.asp?i=20160819120239562545204",
-    "patriot": "http://www.fcs.football/cfb/story.asp?i=20160823115525077530604",
-    "ivy": "http://www.fcs.football/cfb/story.asp?i=20160826104320374053404",
-    "northeast": "http://www.fcs.football/cfb/story.asp?i=20160815112513548223004",
-    "meac": "http://www.fcs.football/cfb/story.asp?i=20160822112332358378804",
-    "swac": "http://www.fcs.football/cfb/story.asp?i=20160811114150617833404",
-    "pioneer": "http://www.fcs.football/cfb/story.asp?i=20160824123350293696304",
-    "coastal carolina": "http://www.fcs.football/cfb/teamstats.asp?team=2316&report=teamhome"
+    "missouri valley": "http://www.fcs.football/cfb/story.asp?i=20170824104729612656304",
+    "caa": "http://www.fcs.football/cfb/story.asp?i=20170818104128907614104",
+    "big sky": "http://www.fcs.football/cfb/story.asp?i=20170809121513401063704",
+    "southern": "http://www.fcs.football/cfb/story.asp?i=20170811113222733426104",
+    "southland": "http://www.fcs.football/cfb/story.asp?i=20170816115058066288304",
+    "ohio valley": "http://www.fcs.football/cfb/story.asp?i=20170817115612618456104",
+    "big south": "http://www.fcs.football/cfb/story.asp?i=20170814104005634983304",
+    "patriot": "http://www.fcs.football/cfb/story.asp?i=20170822112139739310604",
+    "ivy": "http://www.fcs.football/cfb/story.asp?i=20170825103721252818504",
+    "northeast": "http://www.fcs.football/cfb/story.asp?i=20170815121250024126404",
+    "meac": "http://www.fcs.football/cfb/story.asp?i=20170821105423577156704",
+    "swac": "http://www.fcs.football/cfb/story.asp?i=20170810131205069238504",
+    "pioneer": "http://www.fcs.football/cfb/story.asp?i=20170823120100535482704"
     }
 }

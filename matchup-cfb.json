@@ -9,6 +9,7 @@
     "book spy": "http://pregame.com/sportsbook_spy/default.aspx",
     "bet trends": "https://www.sportsinsights.com/betting-trends/college-football-betting-trends/",
     "trends raw": "https://account.sportsinsights.com/partners/content.aspx?sport_id=11&A=23",
+    "sdb cfb": "http://sportsdatabase.com/ncaafb/query?output=default&sdql=season%3E2000+and+site&submit=++S+D+Q+L+%21++",
 
     "NCAAF": "",
     "schedule": "http://www.espn.com/college-football/schedule",

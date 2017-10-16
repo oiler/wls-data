@@ -26,6 +26,15 @@
     "DATA INF": "",
     "di confl": "https://bankratecom.atlassian.net/wiki/spaces/DI/pages",
 
+    "PERSONAL": "",
+    "pat jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=67&projectKey=PAT",
+
+    "DATA ENG": "",
+    "de jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=37&projectKey=DE&view=planning.nodetail&selectedIssue=DE-1856",
+
+    "DEVOPS": "",
+    "devops jira": "https://bankratecom.atlassian.net/projects/DEVOPS/issues/",
+
     "CONTENT": "",
     "con confl": "https://bankratecom.atlassian.net/wiki/spaces/CT/overview",
     "con jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=32&view=planning",

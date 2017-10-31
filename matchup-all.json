@@ -22,9 +22,9 @@
     "mlb trends": "https://account.sportsinsights.com/partners/content.aspx?sport_id=3&A=23",
 
     "NFL": "",
-    "https://pregame.com/pros/fezzik/posts": "fezzik",
-    "https://www.teamrankings.com/nfl/stat/yards-per-play": "oypp",
-    "https://www.teamrankings.com/nfl/stat/opponent-yards-per-play": "dypp",
+    "fezzik": "https://pregame.com/pros/fezzik/posts",
+    "oypp": "https://www.teamrankings.com/nfl/stat/yards-per-play",
+    "dypp": "https://www.teamrankings.com/nfl/stat/opponent-yards-per-play",
     "query": "http://sportsdatabase.com/nfl/query"
     }
 }

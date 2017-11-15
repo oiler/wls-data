@@ -13,18 +13,17 @@
     "analytics": "https://analytics.google.com/analytics/web/#home/a55386262w88581009p92007919/",
     "ad inventory": "https://docs.google.com/spreadsheets/d/1InIUP0C5W5ZUWBpukwuCfO9hONzSvXvn95y6Qjx6hAU/",
 
-    "CPL": "",
-    "cpl confl": "https://bankratecom.atlassian.net/wiki/spaces/BID/overview",
-    "cpl jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=97&view=planning.nodetail",
+    "ALL TEAMS": "",
+    "all confl": "https://bankratecom.atlassian.net/wiki/discover/all-updates",
+    "all jira": "https://bankratecom.atlassian.net/secure/ManageRapidViews.jspa",
+
+    "FP": "",
+    "fp confl": "https://bankratecom.atlassian.net/wiki/spaces/BID/overview",
+    "fp jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=115&view=planning",
     "release cal": "https://docs.google.com/a/caring.com/spreadsheets/d/1uRcTYPnswh6xIFoVuCaWTQ6zZ6GjRJXJmh-E5LPoNY8/edit?usp=sharing",
 
-    "HTTPS": "",
-    "https project": "https://bankratecom.atlassian.net/wiki/spaces/HTTPS/pages/86671416/Project+Overview+Doc",
-    "https jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=105&view=planning",
-    "auto calc": "https://xq007.bankrate.com/calculators/auto/auto-loan-calculator.aspx",
-
-    "DATA INF": "",
-    "di confl": "https://bankratecom.atlassian.net/wiki/spaces/DI/pages",
+    "DATA SCI": "",
+    "dsci confl": "https://bankratecom.atlassian.net/wiki/spaces/DSCI",
 
     "PERSONAL": "",
     "pat jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=67&projectKey=PAT",

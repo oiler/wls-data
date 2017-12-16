@@ -41,6 +41,7 @@
         },
         "espn cfb": {
             "espn cfb": "http://www.espn.com/college-football/",
+            "bowl": "http://games.espn.com/college-bowl-mania/2017/en/",
             "scores": "http://www.espn.com/college-football/scoreboard/_/group/80/year/2017/seasontype/2/week/"
         }
     }

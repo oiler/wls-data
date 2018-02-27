@@ -10,7 +10,10 @@
             "depth charts": "https://docs.google.com/spreadsheets/d/1eBIbmN_AZo7xauYzWY245f7hxCBmg1la818zcI1AAM8/pubhtml",
             "site depth charts": "http://mlbdepthcharts.com"
         },
-        "lineups": "https://docs.google.com/spreadsheets/d/17cagXTP6ZZ3efgkOr76GdqJKJ5_8dagwBWBEgxp589U/",
+        "lineups": {
+            "lineups": "https://docs.google.com/spreadsheets/d/1MOKBYhp-eJpkuG1xyf6xk3SIkTCdT5l8TcA1ADPKoiY/edit#gid=0",
+            "rookies": "https://docs.google.com/spreadsheets/d/1zWvEufvP1vV3p_yrovxTYDLScvX-VKAmKykcjnZJPgQ/edit#gid=0"
+        },
         "yahoo": {
             "yahoo": "http://sports.yahoo.com/mlb/",
             "scores": "http://sports.yahoo.com/mlb/scoreboard/",

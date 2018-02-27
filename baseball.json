@@ -20,10 +20,9 @@
             "espnscores": "http://espn.go.com/mlb/scoreboard"
         },
         "yahoo fantasy": {
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/37159/5",
-            "twenty": "https://baseball.fantasysports.yahoo.com/b1/104959/3",
-            "moneyball": "https://baseball.fantasysports.yahoo.com/b1/70644/9",
-            "bp": "https://baseball.fantasysports.yahoo.com/b1/128484/3"
+            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/50950/7",
+            "vigi": "https://baseball.fantasysports.yahoo.com/b1/4165/17",
+            "razi": "https://baseball.fantasysports.yahoo.com/b1/9109/6"
         },
         "mabl": {
             "mabl": "http://m-abl.baseball.cbssports.com/",
@@ -33,17 +32,15 @@
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",
-            "uandi": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2017",
-            "hats": "http://games.espn.com/flb/clubhouse?leagueId=219377&teamId=3&seasonId=2017",
-            "knights": "http://games.espn.com/flb/clubhouse?leagueId=197062&teamId=5&seasonId=2017",
+            "uandi": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2018",
+            "jaega": "http://games.espn.com/flb/clubhouse?leagueId=49869&teamId=11&seasonId=2018",
             "vbd": "http://vbdynasty.proboards.com/"
         },
         "uandi docs": {
             "u&i": "https://www.facebook.com/groups/398888906854580/",
             "auction": "https://www.facebook.com/groups/1111934495537889/",
             "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
-            "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/",
-            "b2017": "https://docs.google.com/spreadsheets/d/1NBPlglzYcSf1Dp9j4Ly8TqAqvN97G-VsvahTd_G-uj8/"
+            "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/"
         },
         "mlb fantasy": "http://www.mlb.com/mlb/fantasy/news/",
         "fox outside": "http://www.foxsports.com/mlb/just-a-bit-outside",

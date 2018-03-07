@@ -24,10 +24,9 @@
             "vigi": "https://baseball.fantasysports.yahoo.com/b1/4165/17",
             "razi": "https://baseball.fantasysports.yahoo.com/b1/9109/6"
         },
-        "mabl": {
+        "cbs": {
             "mabl": "http://m-abl.baseball.cbssports.com/",
-            "players": "http://m-abl.baseball.cbssports.com/stats/stats-main",
-            "roster": "http://m-abl.baseball.cbssports.com/teams",
+            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/",
             "live": "http://m-abl.baseball.cbssports.com/scoring/standard"
         },
         "espn": {

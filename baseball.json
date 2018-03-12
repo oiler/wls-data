@@ -59,7 +59,7 @@
             "minors": "https://docs.google.com/spreadsheets/d/1wdvY5_-uGts3wgXpyPWN0cxu7LQvzHYyR-ox1aWihds/edit#gid=2"
         },
         "find leagues": {
-            "redditleague": "https://www.reddit.com/r/findaleague/",
+            "find": "https://www.reddit.com/r/findaleague/",
             "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
             "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
         },

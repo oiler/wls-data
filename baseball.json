@@ -1,6 +1,10 @@
 { 
     "links" : {
-        "bp": "http://www.baseballprospectus.com/",
+        "bp": { 
+            "bp": "http://www.baseballprospectus.com/",
+            "bullpenbp": "https://legacy.baseballprospectus.com/pitchfx/bpm/",
+            "draftbp": "https://legacy.baseballprospectus.com/fantasy/scoresheet/draftaid/"
+        },
         "mlb.com": {
             "mlb.com": "http://mlb.mlb.com/",
             "tv": "http://m.mlb.com/tv/",
@@ -38,7 +42,7 @@
             "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
             "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/"
         },
-            "mabl": {
+        "mabl": {
             "mabl": "http://m-abl.baseball.cbssports.com/",
             "players": "http://m-abl.baseball.cbssports.com/stats/stats-main",
             "roster": "http://m-abl.baseball.cbssports.com/teams",
@@ -49,12 +53,13 @@
             "live": "http://agalaxyfarfaraway.baseball.cbssports.com/scoring/standard",
             "history": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976"
         },
-        "vigilante docs": {
-            "vig boards": "http://vbdynasty.proboards.com/",
-            "vbd pms": "http://vbdynasty.proboards.com/conversations",
+        "vigilante": {
+            "vigbds": "http://vbdynasty.proboards.com/",
+            "vbdpms": "http://vbdynasty.proboards.com/conversations",
             "minors": "https://docs.google.com/spreadsheets/d/1wdvY5_-uGts3wgXpyPWN0cxu7LQvzHYyR-ox1aWihds/edit#gid=2"
         },
-        "leagues": {
+        "find leagues": {
+            "redditleague": "https://www.reddit.com/r/findaleague/",
             "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
             "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
         },

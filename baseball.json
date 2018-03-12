@@ -15,19 +15,29 @@
             "rookies": "https://docs.google.com/spreadsheets/d/1zWvEufvP1vV3p_yrovxTYDLScvX-VKAmKykcjnZJPgQ/",
             "values": "https://docs.google.com/spreadsheets/d/1Ay2WjJaD3fQKbuRe5jqgmQZp9vp3hFOlD3h90QaN3ls/"
         },
-        "yahoo": {
-            "yahoo": "http://sports.yahoo.com/mlb/",
-            "scores": "http://sports.yahoo.com/mlb/scoreboard/",
+        "scores": {
+            "yahooscores": "http://sports.yahoo.com/mlb/scoreboard/",
             "espnscores": "http://espn.go.com/mlb/scoreboard"
+        },
+        "leagues": {
+            "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
+            "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
         },
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/50950/7",
             "vigi": "https://baseball.fantasysports.yahoo.com/b1/4165/17",
             "vbd": "http://vbdynasty.proboards.com/"
         },
-        "cbs": {
+        "mabl": {
             "mabl": "http://m-abl.baseball.cbssports.com/",
-            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/"
+            "players": "http://m-abl.baseball.cbssports.com/stats/stats-main",
+            "roster": "http://m-abl.baseball.cbssports.com/teams",
+            "live": "http://m-abl.baseball.cbssports.com/scoring/standard"
+        },
+        "galaxy": {
+            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/",
+            "live": "http://agalaxyfarfaraway.baseball.cbssports.com/scoring/standard",
+            "history": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976"
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",

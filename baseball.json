@@ -11,8 +11,9 @@
             "site depth charts": "http://mlbdepthcharts.com"
         },
         "lineups": {
-            "lineups": "https://docs.google.com/spreadsheets/d/1MOKBYhp-eJpkuG1xyf6xk3SIkTCdT5l8TcA1ADPKoiY/edit#gid=0",
-            "rookies": "https://docs.google.com/spreadsheets/d/1zWvEufvP1vV3p_yrovxTYDLScvX-VKAmKykcjnZJPgQ/edit#gid=0"
+            "lineups": "https://docs.google.com/spreadsheets/d/1MOKBYhp-eJpkuG1xyf6xk3SIkTCdT5l8TcA1ADPKoiY/",
+            "rookies": "https://docs.google.com/spreadsheets/d/1zWvEufvP1vV3p_yrovxTYDLScvX-VKAmKykcjnZJPgQ/",
+            "values": "https://docs.google.com/spreadsheets/d/1Ay2WjJaD3fQKbuRe5jqgmQZp9vp3hFOlD3h90QaN3ls/"
         },
         "yahoo": {
             "yahoo": "http://sports.yahoo.com/mlb/",
@@ -22,18 +23,17 @@
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/50950/7",
             "vigi": "https://baseball.fantasysports.yahoo.com/b1/4165/17",
-            "razi": "https://baseball.fantasysports.yahoo.com/b1/9109/6"
+            "vbd": "http://vbdynasty.proboards.com/"
         },
         "cbs": {
             "mabl": "http://m-abl.baseball.cbssports.com/",
-            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/",
-            "live": "http://m-abl.baseball.cbssports.com/scoring/standard"
+            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/"
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",
             "uandi": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2018",
             "jaega": "http://games.espn.com/flb/clubhouse?leagueId=49869&teamId=11&seasonId=2018",
-            "vbd": "http://vbdynasty.proboards.com/"
+            "fo": "http://games.espn.com/flb/clubhouse?leagueId=43277&teamId=12&seasonId=2018"
         },
         "uandi docs": {
             "u&i": "https://www.facebook.com/groups/398888906854580/",

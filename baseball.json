@@ -17,14 +17,14 @@
         },
         "scores": {
             "scores": "http://newsday.sportsdirectinc.com/sports-scores/Baseball-Scores-Matchups.aspx",
-            "yahoo": "http://sports.yahoo.com/mlb/scoreboard/",
-            "espnscores": "http://espn.go.com/mlb/scoreboard"
+            "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/",
+            "espn scores": "http://espn.go.com/mlb/scoreboard"
         },
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/50950/7",
             "vigi": "https://baseball.fantasysports.yahoo.com/b1/4165/17",
             "bp": "https://baseball.fantasysports.yahoo.com/b1/118613/3",
-            "20": "https://baseball.fantasysports.yahoo.com/b1/119428/3"
+            "twenty": "https://baseball.fantasysports.yahoo.com/b1/119428/3"
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",

@@ -51,6 +51,7 @@
         "galaxy": {
             "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/",
             "live": "http://agalaxyfarfaraway.baseball.cbssports.com/scoring/standard",
+            "rules": "https://docs.google.com/document/d/1oOb2xx5leS5mqU3j3ShrCOv24yGRWCScOnwvSMwL-lg/",
             "history": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976"
         },
         "vigilante": {

@@ -11,7 +11,7 @@
             "net": "http://m.mlb.com/network/live?mso_id=Verizon"
         },
         "depth charts": {
-            "depchrts": "https://docs.google.com/spreadsheets/d/1eBIbmN_AZo7xauYzWY245f7hxCBmg1la818zcI1AAM8/pubhtml",
+            "dcht": "https://docs.google.com/spreadsheets/d/1eBIbmN_AZo7xauYzWY245f7hxCBmg1la818zcI1AAM8/pubhtml",
             "grid": "https://www.rosterresource.com/mlb-roster-grid/",
             "twitter": "https://twitter.com/mlbdepthcharts",
             "site depth charts": "http://mlbdepthcharts.com"

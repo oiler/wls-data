@@ -5,6 +5,11 @@
             "bullpenbp": "https://legacy.baseballprospectus.com/pitchfx/bpm/",
             "draftbp": "https://legacy.baseballprospectus.com/fantasy/scoresheet/draftaid/"
         },
+        "scores": {
+            "scores": "http://newsday.sportsdirectinc.com/sports-scores/Baseball-Scores-Matchups.aspx",
+            "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/",
+            "espn scores": "http://espn.go.com/mlb/scoreboard"
+        },
         "mlb.com": {
             "mlb.com": "http://mlb.mlb.com/",
             "tv": "http://m.mlb.com/tv/",
@@ -20,11 +25,6 @@
             "lineups": "https://docs.google.com/spreadsheets/d/1MOKBYhp-eJpkuG1xyf6xk3SIkTCdT5l8TcA1ADPKoiY/",
             "rookies": "https://docs.google.com/spreadsheets/d/1zWvEufvP1vV3p_yrovxTYDLScvX-VKAmKykcjnZJPgQ/",
             "values": "https://docs.google.com/spreadsheets/d/1Ay2WjJaD3fQKbuRe5jqgmQZp9vp3hFOlD3h90QaN3ls/"
-        },
-        "scores": {
-            "scores": "http://newsday.sportsdirectinc.com/sports-scores/Baseball-Scores-Matchups.aspx",
-            "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/",
-            "espn scores": "http://espn.go.com/mlb/scoreboard"
         },
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/50950/7",

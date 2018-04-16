@@ -1,58 +1,31 @@
 { "links" : {
     "TOOLS": "",
-    "jira": "https://bankratecom.atlassian.net/secure/Dashboard.jspa",
-    "confluence all": "https://bankratecom.atlassian.net/wiki/discover/all-updates",
-    "confl rp": "https://bankratecom.atlassian.net/wiki/pages/viewpage.action?spaceKey=RP&title=Overview",
-    "confl rp roadmap": "https://bankratecom.atlassian.net/wiki/display/RP/Roadmap",
-    "publish": "https://publish.bankrate.com/wp-admin/tools.php",
-    "sharethrough": "https://sfp.sharethrough.com/publishers/ecd70a87/sites",
-    "style guide": "https://drive.google.com/drive/folders/0B4ZkI04eFRMsMnVkb0V4Tm1VcHM",
-    "outlook": "https://exchange.intermedia.net/ControlPanel/Login?ClientType=WebMail",
-    "trello": "https://trello.com/b/c3r7ap9Q/bankrate",
-    "moat": "https://bankrate.moat.com/brands/view/CpGx",
-    "analytics": "https://analytics.google.com/analytics/web/#home/a55386262w88581009p92007919/",
-    "ad inventory": "https://docs.google.com/spreadsheets/d/1InIUP0C5W5ZUWBpukwuCfO9hONzSvXvn95y6Qjx6hAU/",
+    "wp publish": "https://publish.bankrate.com/wp-admin/tools.php",
+    "ux qa": "https://ux.qa.bankrate.com/",
+    "style guide": "https://drive.google.com/drive/folders/1WeFBohq6yHEzvYDIcp0KCnSctQonV-zM",
+    "outlook": "https://outlook.office.com/owa/",
+    "my trello": "https://trello.com/b/c3r7ap9Q/bankrate",
+
+    "MyFinance": "",
+    "drive folder": "https://drive.google.com/drive/folders/1-6ZX0eebBi-bVNEtGDrag8mxphJtpJiE",
+    "trello mf": "https://trello.com/b/SY9EHmkc/product-roadmap",
+    "admin": "https://www.myfinance.com/admin/",
+    "staging": "https://staging.myfinance.com/admin/",
+    "conflunce": "https://bankratecom.atlassian.net/wiki/spaces/MYF/pages",
+
 
     "ALL TEAMS": "",
     "all confl": "https://bankratecom.atlassian.net/wiki/discover/all-updates",
     "all jira": "https://bankratecom.atlassian.net/secure/ManageRapidViews.jspa",
 
-    "FP": "",
-    "fp confl": "https://bankratecom.atlassian.net/wiki/spaces/BID/overview",
-    "fp jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=115&view=planning",
-    "release cal": "https://docs.google.com/a/caring.com/spreadsheets/d/1uRcTYPnswh6xIFoVuCaWTQ6zZ6GjRJXJmh-E5LPoNY8/edit?usp=sharing",
-
     "DATA SCI": "",
     "dsci confl": "https://bankratecom.atlassian.net/wiki/spaces/DSCI",
-
-    "PERSONAL": "",
-    "pat jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=67&projectKey=PAT",
 
     "DATA ENG": "",
     "de jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=37&projectKey=DE&view=planning.nodetail&selectedIssue=DE-1856",
 
     "DEVOPS": "",
     "devops jira": "https://bankratecom.atlassian.net/projects/DEVOPS/issues/",
-
-    "CONTENT": "",
-    "con confl": "https://bankratecom.atlassian.net/wiki/spaces/CT/overview",
-    "con jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=32&view=planning",
-
-    "PROJECTS": "",
-    "redesign": "https://bankratecom.atlassian.net/wiki/display/RP/2016+Redesign",
-    "flavors tracking": "https://docs.google.com/spreadsheets/d/1ezXPrWmyqEPqT6pPpJPxCXefNoviRsGBIdUkGlun9e4/",
-    "sponsored content": "https://bankratecom.atlassian.net/wiki/display/RP/Sponsored+Content+Articles",
-    "design epic for sc": "https://bankratecom.atlassian.net/browse/PIX-595",
-    "priority list": "https://docs.google.com/spreadsheets/d/12cEdUFi-yHIHdpnWx2cr4tpnUKaTYTCI9--9k09CQ0g/",
-
-    "SC REVIEW": "",
-    "cap one edt": "https://s3.amazonaws.com/oiler/work/bankrate/capitalone-editorial.html",
-    "cap one bsc": "https://s3.amazonaws.com/oiler/work/bankrate/capitalone-branded.html",
-    "aag edt": "https://s3.amazonaws.com/oiler/work/bankrate/aag-editorial.html",
-    "aag bcs": "https://s3.amazonaws.com/oiler/work/bankrate/aag-branded.html",
-    "vu edt": "https://s3.amazonaws.com/oiler/work/bankrate/vu-editorial.html",
-    "vu bcs": "https://s3.amazonaws.com/oiler/work/bankrate/vu-branded.html",
-    "syn edt": "https://s3.amazonaws.com/oiler/work/bankrate/synchrony-editorial.html",
 
     "HR": "",
     "adp workforce": "https://workforcenow.adp.com/public/index.htm",

@@ -33,7 +33,7 @@
             "twenty": "https://baseball.fantasysports.yahoo.com/b1/119428/3"
         },
         "espn": {
-            "espn": "http://www.espn.com/fantasy/baseball/",
+            "espn": "http://games.espn.com/flb/clubhouse?leagueId=219377&teamId=8&seasonId=2018",
             "uandi": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2018",
             "jaega": "http://games.espn.com/flb/clubhouse?leagueId=49869&teamId=11&seasonId=2018",
             "fo": "http://games.espn.com/flb/clubhouse?leagueId=43277&teamId=12&seasonId=2018"
@@ -43,7 +43,7 @@
         },
         "uandi docs": {
             "u&i": "https://www.facebook.com/groups/398888906854580/",
-            "auction": "https://www.facebook.com/groups/1111934495537889/",
+            "auction": "https://www.facebook.com/groups/758068644398419/",
             "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
             "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/"
         },
@@ -55,6 +55,8 @@
         },
         "galaxy": {
             "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/",
+            "players": "http://agalaxyfarfaraway.cbssports.com/stats/stats-main",
+            "roster": "http://agalaxyfarfaraway.cbssports.com/teams",
             "live": "http://agalaxyfarfaraway.baseball.cbssports.com/scoring/standard",
             "rules": "https://docs.google.com/document/d/1oOb2xx5leS5mqU3j3ShrCOv24yGRWCScOnwvSMwL-lg/",
             "history": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976"

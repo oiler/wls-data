@@ -15,7 +15,7 @@
         "twitter": {
             "mobile": "https://mobile.twitter.com/",
             "real": "https://mobile.twitter.com/oiler/lists/real-twitter",
-            "lists": "https://mobile.twitter.com/#!/oiler/lists",
+            "lists": "https://mobile.twitter.com/#!/oiler/lists"
         },
         "lists": {
             "cfb": "https://mobile.twitter.com/#!/oiler/cfb",

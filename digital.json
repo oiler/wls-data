@@ -14,15 +14,14 @@
         "tw adv search": "https://twitter.com/search-advanced?lang=en",
         "twitter": {
             "mobile": "https://mobile.twitter.com/",
-            "twitter": "https://www.twitter.com/",
-            "lists": "https://twitter.com/#!/oiler/lists",
-            "favorites": "https://twitter.com/#!/oiler/favorites"
+            "real": "https://mobile.twitter.com/oiler/lists/real-twitter",
+            "lists": "https://mobile.twitter.com/#!/oiler/lists",
         },
         "lists": {
-            "cfb": "https://twitter.com/#!/oiler/cfb",
-            "hockey": "https://twitter.com/#!/oiler/hockey",
-            "football": "https://twitter.com/#!/oiler/football",
-            "baseball": "https://twitter.com/#!/oiler/baseball"
+            "cfb": "https://mobile.twitter.com/#!/oiler/cfb",
+            "hockey": "https://mobile.twitter.com/#!/oiler/hockey",
+            "football": "https://mobile.twitter.com/#!/oiler/football",
+            "baseball": "https://mobile.twitter.com/#!/oiler/baseball"
         },
         "tw manual": "https://eev.ee/blog/2016/02/20/twitters-missing-manual/",
         "vellum links": "http://vellum.nytlabs.com/mylinks",

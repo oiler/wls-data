@@ -21,6 +21,8 @@
 	"usa to cph": "https://www.google.com/flights/#search;f=FLL,MCO,JFK;t=CPH,OSL;tt=o;a=DY;s=0",
 	"nyc to sofla": "https://www.google.com/flights/#search;f=JFK,EWR,LGA;t=PBI,FLL;tt=o;s=0",
 	"sofla to nyc": "https://www.google.com/flights/#search;f=PBI,FLL;t=JFK,EWR,LGA;tt=o;s=0",
+	"sofla to las": "https://www.google.com/flights/#flt=PBI,FLL,MIA.LAS;c:USD;e:1;sd:1;t:f;tt:o",
+	"las to sofla": "https://www.google.com/flights/#flt=LAS.PBI,FLL,MIA;c:USD;e:1;sd:1;t:f;tt:o",
 	"from fla": "https://www.google.com/flights/#search;f=TPA,PBI,FLL,MCO;t=;tt=o;s=0",
 	"to fla": "https://www.google.com/flights/#search;f=;t=TPA,PBI,FLL,MCO;tt=o;s=0",
 	"google flights": "http://www.google.com/flights/"

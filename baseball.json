@@ -1,26 +1,51 @@
 { 
     "links" : {
-        "bp": "http://www.baseballprospectus.com/",
+        "bp": { 
+            "bp": "http://www.baseballprospectus.com/",
+            "bullpenbp": "https://legacy.baseballprospectus.com/pitchfx/bpm/",
+            "draftbp": "https://legacy.baseballprospectus.com/fantasy/scoresheet/draftaid/"
+        },
+        "scores": {
+            "scores": "http://newsday.sportsdirectinc.com/sports-scores/Baseball-Scores-Matchups.aspx",
+            "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/",
+            "espn scores": "http://espn.go.com/mlb/scoreboard"
+        },
         "mlb.com": {
             "mlb.com": "http://mlb.mlb.com/",
             "tv": "http://m.mlb.com/tv/",
             "net": "http://m.mlb.com/network/live?mso_id=Verizon"
         },
         "depth charts": {
-            "depth charts": "https://docs.google.com/spreadsheets/d/1eBIbmN_AZo7xauYzWY245f7hxCBmg1la818zcI1AAM8/pubhtml",
+            "dcht": "https://docs.google.com/spreadsheets/d/1eBIbmN_AZo7xauYzWY245f7hxCBmg1la818zcI1AAM8/pubhtml",
+            "grid": "https://www.rosterresource.com/mlb-roster-grid/",
+            "twitter": "https://twitter.com/mlbdepthcharts",
             "site depth charts": "http://mlbdepthcharts.com"
         },
-        "lineups": "https://docs.google.com/spreadsheets/d/17cagXTP6ZZ3efgkOr76GdqJKJ5_8dagwBWBEgxp589U/",
-        "yahoo": {
-            "yahoo": "http://sports.yahoo.com/mlb/",
-            "scores": "http://sports.yahoo.com/mlb/scoreboard/",
-            "espnscores": "http://espn.go.com/mlb/scoreboard"
+        "lineups": {
+            "lineups": "https://docs.google.com/spreadsheets/d/1MOKBYhp-eJpkuG1xyf6xk3SIkTCdT5l8TcA1ADPKoiY/",
+            "rookies": "https://docs.google.com/spreadsheets/d/1zWvEufvP1vV3p_yrovxTYDLScvX-VKAmKykcjnZJPgQ/",
+            "values": "https://docs.google.com/spreadsheets/d/1Ay2WjJaD3fQKbuRe5jqgmQZp9vp3hFOlD3h90QaN3ls/"
         },
         "yahoo fantasy": {
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/37159/5",
-            "twenty": "https://baseball.fantasysports.yahoo.com/b1/104959/3",
-            "moneyball": "https://baseball.fantasysports.yahoo.com/b1/70644/9",
-            "bp": "https://baseball.fantasysports.yahoo.com/b1/128484/3"
+            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/50950/7",
+            "vigi": "https://baseball.fantasysports.yahoo.com/b1/4165/17",
+            "bp": "https://baseball.fantasysports.yahoo.com/b1/118613/3",
+            "twenty": "https://baseball.fantasysports.yahoo.com/b1/119428/3"
+        },
+        "espn": {
+            "espn": "http://games.espn.com/flb/clubhouse?leagueId=219377&teamId=8&seasonId=2018",
+            "uandi": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2018",
+            "jaega": "http://games.espn.com/flb/clubhouse?leagueId=49869&teamId=11&seasonId=2018",
+            "fo": "http://games.espn.com/flb/clubhouse?leagueId=43277&teamId=12&seasonId=2018"
+        },
+        "fantrax": {
+            "fantrax": "https://www.fantrax.com/fantasy/league/qx2rs9gsjdlu4qed/team/roster"
+        },
+        "uandi docs": {
+            "u&i": "https://www.facebook.com/groups/398888906854580/",
+            "auction": "https://www.facebook.com/groups/758068644398419/",
+            "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
+            "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/"
         },
         "mabl": {
             "mabl": "http://m-abl.baseball.cbssports.com/",
@@ -28,19 +53,21 @@
             "roster": "http://m-abl.baseball.cbssports.com/teams",
             "live": "http://m-abl.baseball.cbssports.com/scoring/standard"
         },
-        "espn": {
-            "espn": "http://www.espn.com/fantasy/baseball/",
-            "uandi": "http://games.espn.com/flb/clubhouse?leagueId=5983&teamId=3&seasonId=2017",
-            "hats": "http://games.espn.com/flb/clubhouse?leagueId=219377&teamId=3&seasonId=2017",
-            "knights": "http://games.espn.com/flb/clubhouse?leagueId=197062&teamId=5&seasonId=2017",
-            "vbd": "http://vbdynasty.proboards.com/"
+        "galaxy": {
+            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/",
+            "live": "http://agalaxyfarfaraway.baseball.cbssports.com/scoring/standard",
+            "rules": "https://docs.google.com/document/d/1oOb2xx5leS5mqU3j3ShrCOv24yGRWCScOnwvSMwL-lg/",
+            "history": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976"
         },
-        "uandi docs": {
-            "u&i": "https://www.facebook.com/groups/398888906854580/",
-            "auction": "https://www.facebook.com/groups/1111934495537889/",
-            "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
-            "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/",
-            "b2017": "https://docs.google.com/spreadsheets/d/1NBPlglzYcSf1Dp9j4Ly8TqAqvN97G-VsvahTd_G-uj8/"
+        "vigilante": {
+            "vigbds": "http://vbdynasty.proboards.com/",
+            "vbdpms": "http://vbdynasty.proboards.com/conversations",
+            "minors": "https://docs.google.com/spreadsheets/d/1wdvY5_-uGts3wgXpyPWN0cxu7LQvzHYyR-ox1aWihds/edit#gid=2"
+        },
+        "find leagues": {
+            "find": "https://www.reddit.com/r/findaleague/",
+            "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
+            "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
         },
         "mlb fantasy": "http://www.mlb.com/mlb/fantasy/news/",
         "fox outside": "http://www.foxsports.com/mlb/just-a-bit-outside",

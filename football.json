@@ -41,8 +41,9 @@
         },
         "espn cfb": {
             "espn cfb": "http://www.espn.com/college-football/",
-            "bowl": "http://games.espn.com/college-bowl-mania/2017/en/",
-            "scores": "http://www.espn.com/college-football/scoreboard/_/group/80/year/2017/seasontype/2/week/"
-        }
+            "scores": "http://www.espn.com/college-football/scoreboard/_/group/80/year/2018/seasontype/2/week/"
+        },
+        "sbd ncaaf": "http://sportsdatabase.com/ncaafb/query?output=default&sdql=season%3D2018+and+site%3Dhome+and+conference&submit=++S+D+Q+L+%21++",
+        "2018 gsheet": "https://docs.google.com/spreadsheets/d/1KwGeTapjdpUD2OjTWiOsbIoqUPhv7poWdeFi_EM4Ekg/"
     }
 }

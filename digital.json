@@ -10,17 +10,18 @@
         },
         "feedly": "https://feedly.com/i/my",
         "reader": "https://digg.com/reader/folder/New%20Feeds",
+        "awesome": "https://github.com/sindresorhus/awesome",
         "tw adv search": "https://twitter.com/search-advanced?lang=en",
         "twitter": {
-            "twitter": "https://www.twitter.com/",
-            "lists": "https://twitter.com/#!/oiler/lists",
-            "favorites": "https://twitter.com/#!/oiler/favorites"
+            "mobile": "https://mobile.twitter.com/",
+            "real": "https://mobile.twitter.com/oiler/lists/real-twitter",
+            "lists": "https://mobile.twitter.com/#!/oiler/lists"
         },
         "lists": {
-            "cfb": "https://twitter.com/#!/oiler/cfb",
-            "hockey": "https://twitter.com/#!/oiler/hockey",
-            "football": "https://twitter.com/#!/oiler/football",
-            "baseball": "https://twitter.com/#!/oiler/baseball"
+            "cfb": "https://mobile.twitter.com/#!/oiler/cfb",
+            "hockey": "https://mobile.twitter.com/#!/oiler/hockey",
+            "football": "https://mobile.twitter.com/#!/oiler/football",
+            "baseball": "https://mobile.twitter.com/#!/oiler/baseball"
         },
         "tw manual": "https://eev.ee/blog/2016/02/20/twitters-missing-manual/",
         "vellum links": "http://vellum.nytlabs.com/mylinks",
@@ -55,6 +56,7 @@
             "hii": "https://trello.com/b/rQgcNQba/human-impact",
             "foxlabs": "https://trello.com/foxlaboratory"
         },
+        "lambda": "https://s3.amazonaws.com/oiler-test/audio.mp3",
         "my ip": "https://www.google.com/search?q=my+ip"
     }
 }

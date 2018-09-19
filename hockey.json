@@ -6,8 +6,8 @@
             "tv": "https://www.nhl.com/tv"
         },
         "scores nd": "http://newsday.sportsdirectinc.com/sports-scores/Hockey-Scores-Matchups.aspx",
-        "fantasy": "http://hockey.fantasysports.yahoo.com/hockey/42215",
-        "espnfantasy": "http://games.espn.com/fhl/clubhouse?leagueId=17107&teamId=1&seasonId=2018",
+        "fantasy": "https://hockey.fantasysports.yahoo.com/hockey/45745/9",
+        "espnfantasy": "http://fantasy.espn.com/hockey/team?leagueId=17107&teamId=1",
         "tsn.ca": "http://tsn.ca/nhl",
         "hockeystats": "http://hockeystats.ca/",
         "sporting charts": "http://www.sportingcharts.com/nhl/rivalrylisting/",

@@ -9,17 +9,16 @@
         },
         "fantasy": {
             "fan": "http://football.fantasysports.yahoo.com/",
-            "hcfl": "https://football.fantasysports.yahoo.com/f1/45844/7",
-            "drbs": "https://football.fantasysports.yahoo.com/f1/79631/4",
-            "twl": "http://www.thewagerleagues.com/myleagues.aspx",
-            "rtf": "https://www.rtsports.com/football/football-home.php?UID=962987ci8cy42sphz15swiq9i442s2u&LID=12596&U=867437&X=1503350935"
+            "hcfl": "https://football.fantasysports.yahoo.com/f1/2766/5",
+            "drbs": "https://football.fantasysports.yahoo.com/f1/48612/4"
         },
         "espn": {
-            "espn": "http://games.espn.com/ffl/clubhouse?leagueId=1381405&teamId=18&seasonId=2017",
+            "espn": "http://games.espn.com/ffl/clubhouse?leagueId=1943296&teamId=8&seasonId=2018",
             "scores": "http://www.espn.com/nfl/scoreboard"
         },
         "fo": {
             "fo": "http://www.footballoutsiders.com/",
+            "fo premium": "https://www.footballoutsiders.com/premium/spreads.php",
             "snaps": "http://www.footballoutsiders.com/stats/snapcounts"
         },
         "pft": "http://profootballtalk.nbcsports.com/",
@@ -37,7 +36,8 @@
         "cfb twitter": "http://athlonsports.com/college-football/twitter-accounts-every-college-football-fan-should-follow-2016-edition",
         "yahoo cfb": {
             "yahoo cfb": "http://sports.yahoo.com/college-football/",
-            "fantasy": "https://football.fantasysports.yahoo.com/college/6372/2"
+            "fantasy": "https://college.fantasysports.yahoo.com/cfb/16948/2",
+            "picks": "https://football.fantasysports.yahoo.com/college/933/2"
         },
         "espn cfb": {
             "espn cfb": "http://www.espn.com/college-football/",

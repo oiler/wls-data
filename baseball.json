@@ -15,16 +15,21 @@
             "tv": "http://m.mlb.com/tv/",
             "net": "http://m.mlb.com/network/live?mso_id=Verizon"
         },
+        "athletic": {
+            "athletic": "https://theathletic.com/mlb/",
+            "fantasy": "https://theathletic.com/fantasy-baseball/",
+            "twitter list": "https://mobile.twitter.com/oiler/lists/mlb-beat"
+        },
         "depth charts": {
-            "dcht": "https://docs.google.com/spreadsheets/d/1eBIbmN_AZo7xauYzWY245f7hxCBmg1la818zcI1AAM8/pubhtml",
-            "grid": "https://www.rosterresource.com/mlb-roster-grid/",
-            "twitter": "https://twitter.com/mlbdepthcharts",
-            "site depth charts": "http://mlbdepthcharts.com"
+            "order": "https://www.rosterresource.com/mlb-roster-grid/#projected-order",
+            "gsheet": "https://docs.google.com/spreadsheets/d/14Tbz1P4DhsG9E9dtuxhkpHu9f-ByAUfvBsnJCAmf9h0/",
+            "single team": "https://www.rosterresource.com/mlb-tampa-bay-rays/",
+            "mld depth charts": "http://mlbdepthcharts.com"
         },
         "lineups": {
-            "lineups": "https://docs.google.com/spreadsheets/d/1MOKBYhp-eJpkuG1xyf6xk3SIkTCdT5l8TcA1ADPKoiY/",
-            "rookies": "https://docs.google.com/spreadsheets/d/1zWvEufvP1vV3p_yrovxTYDLScvX-VKAmKykcjnZJPgQ/",
-            "values": "https://docs.google.com/spreadsheets/d/1Ay2WjJaD3fQKbuRe5jqgmQZp9vp3hFOlD3h90QaN3ls/"
+            "rosters": "https://docs.google.com/spreadsheets/d/14Tbz1P4DhsG9E9dtuxhkpHu9f-ByAUfvBsnJCAmf9h0/",
+            "prospects": "https://docs.google.com/spreadsheets/d/19mmNX9fjbuLOtr8Ayw8GSeyCIvvY9IEExJfZcBYCrA4/",
+            "drafts": "https://docs.google.com/spreadsheets/d/1DW0EDwsAUBpdwrEfTd2f8FBxqB9Iueki9DgE_bUGibk/"
         },
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/38227/7",
@@ -34,7 +39,9 @@
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",
-            "uandi": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3"
+            "uandi": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
+            "hhm": "http://fantasy.espn.com/baseball/team?leagueId=2779322&seasonId=2019&teamId=7&fromTeamId=7",
+            "zebra": "http://fantasy.espn.com/baseball/team?leagueId=20456&seasonId=2019&teamId=8&fromTeamId=8"
         },
         "uandi docs": {
             "u&i": "https://www.facebook.com/groups/398888906854580/",

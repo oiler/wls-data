@@ -13,15 +13,15 @@
         "awesome": "https://github.com/sindresorhus/awesome",
         "tw adv search": "https://twitter.com/search-advanced?lang=en",
         "twitter": {
+            "twitter": "https://mobile.twitter.com/oiler/lists/real-twitter",
             "mobile": "https://mobile.twitter.com/",
-            "real": "https://mobile.twitter.com/oiler/lists/real-twitter",
-            "lists": "https://mobile.twitter.com/#!/oiler/lists"
+            "lists": "https://mobile.twitter.com/oiler/lists"
         },
         "lists": {
-            "cfb": "https://mobile.twitter.com/#!/oiler/cfb",
-            "hockey": "https://mobile.twitter.com/#!/oiler/hockey",
-            "football": "https://mobile.twitter.com/#!/oiler/football",
-            "baseball": "https://mobile.twitter.com/#!/oiler/baseball"
+            "cfb": "https://mobile.twitter.com/oiler/cfb",
+            "hockey": "https://mobile.twitter.com/oiler/hockey",
+            "football": "https://mobile.twitter.com/oiler/football",
+            "baseball": "https://mobile.twitter.com/oiler/baseball"
         },
         "tw manual": "https://eev.ee/blog/2016/02/20/twitters-missing-manual/",
         "vellum links": "http://vellum.nytlabs.com/mylinks",

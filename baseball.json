@@ -82,6 +82,7 @@
         "park factor": "http://espn.go.com/mlb/stats/parkfactor",
         "covers matchups": "http://www.covers.com/sports/mlb/matchups",
         "fangraphs": "http://www.fangraphs.com/",
-        "ballsandstrikes": "https://ballsandstrikes.co/"
+        "ballsandstrikes": "https://ballsandstrikes.co/",
+        "sdb mlb": "https://sportsdatabase.com/mlb/query"
     }
 }

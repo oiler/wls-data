@@ -9,11 +9,12 @@
         },
         "fantasy": {
             "fan": "http://football.fantasysports.yahoo.com/",
-            "hcfl": "https://football.fantasysports.yahoo.com/f1/2766/5",
-            "drbs": "https://football.fantasysports.yahoo.com/f1/48612/4"
+            "hcfl": "https://football.fantasysports.yahoo.com/f1/4353/7",
+            "drbs": "https://football.fantasysports.yahoo.com/f1/21214/5",
+            "gg": "https://football.fantasysports.yahoo.com/f1/189038/2"
         },
         "espn": {
-            "espn": "http://games.espn.com/ffl/clubhouse?leagueId=1943296&teamId=8&seasonId=2018",
+            "espn": "https://fantasy.espn.com/football/team?leagueId=1894980&seasonId=2019&teamId=12&fromTeamId=12",
             "seliminator": "http://fantasy.espn.com/nfl-eliminator-challenge/2018/en/entry?entryID=805710",
             "scores": "http://www.espn.com/nfl/scoreboard"
         },

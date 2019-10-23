@@ -8,6 +8,12 @@
     "espn chalk": "http://www.espn.com/chalk/",
     "aGBWlwd3qDS4": "/aGBWlwd3qDS4",
 
+    "QUERY": "",
+    "mlb": "http://sportsdatabase.com/mlb/query",
+    "nfl": "http://sportsdatabase.com/nfl/query",
+    "nhl": "http://sportsdatabase.com/nhl/query",
+    "ncaaf": "http://sportsdatabase.com/ncaaf/query",
+
     "TRENDS": "",
     "service plays": "http://forum.sbrforum.com/service-plays/",
     "newsletters": "http://www.therxforum.com/showthread.php?t=971451&page=120",

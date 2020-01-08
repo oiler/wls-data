@@ -1,0 +1,17 @@
+{ "links" : {
+		"cit trello": "https://trello.com/b/w745v46j/rfs-cit",
+		"airtable candidates": "https://airtable.com/tblbXzwWnBpukFpUV/viw52e35R5hkicJnd?blocks=hide",
+		"airtable old": "https://airtable.com/tblVYzAflBrZfCX6S/viwgB4prrM9LucFwr?blocks=hide",
+		"drive - tracker": "https://drive.google.com/drive/folders/10kCEl3Y_WBA54hD_aB516R3mbHrYHFy4",
+		"basecamp": "https://3.basecamp.com/4162466/projects",
+		"cit search": "http://cit.runforsomething.net/campaign-search",
+		"cit admin": "https://cit.runforsomething.net/admin/,
+		"cit-stage": "https://cit-stage.runforsomething.net/campaign-search",
+		"rfs.net": "https://runforsomething.net/",
+		"rfs.net admin": "https://runforsomething.net/wp-admin/",
+		"rfs stage": "http://rfstech.staging.wpengine.com/",
+		"rfs stage admin": "http://rfstech.staging.wpengine.com/wp-admin/",
+		"wpengine": "https://my.wpengine.com/installs/rfstech",
+		"zapier": "https://zapier.com/app/zaps/folder/361094"
+	}
+}

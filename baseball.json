@@ -32,16 +32,14 @@
             "drafts": "https://docs.google.com/spreadsheets/d/1DW0EDwsAUBpdwrEfTd2f8FBxqB9Iueki9DgE_bUGibk/"
         },
         "yahoo fantasy": {
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/38227/7",
-            "vigi": "https://baseball.fantasysports.yahoo.com/b1/2255/6",
-            "bp": "https://baseball.fantasysports.yahoo.com/b1/21325/6",
-            "three": "https://baseball.fantasysports.yahoo.com/b1/39926/4"
+            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/2135/1",
+            "vigi": "https://baseball.fantasysports.yahoo.com/b1/1575/5"
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",
             "uandi": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
-            "hhm": "http://fantasy.espn.com/baseball/team?leagueId=2779322&seasonId=2019&teamId=7&fromTeamId=7",
-            "zebra": "http://fantasy.espn.com/baseball/team?leagueId=20456&seasonId=2019&teamId=8&fromTeamId=8"
+            "hhm": "https://fantasy.espn.com/baseball/team?leagueId=2779322&teamId=7",
+            "zebra": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8"
         },
         "uandi docs": {
             "u&i": "https://www.facebook.com/groups/398888906854580/",

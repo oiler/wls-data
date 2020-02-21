@@ -38,6 +38,7 @@
         },
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/2135/1",
+            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/7614/11",
             "vigi": "https://baseball.fantasysports.yahoo.com/b1/1575/5"
         },
         "espn": {
@@ -45,6 +46,10 @@
             "uandi": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
             "hhm": "https://fantasy.espn.com/baseball/team?leagueId=2779322&teamId=7",
             "zebra": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8"
+        },
+        "cbs": {
+            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/teams",
+            "sandlot": "http://thesandlot1519339382.baseball.cbssports.com/teams"
         },
         "uandi docs": {
             "u&i": "https://www.facebook.com/groups/398888906854580/",

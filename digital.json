@@ -8,6 +8,10 @@
             "javascript": "https://github.com/oiler/notes/blob/master/javascript.md",
             "bash": "https://github.com/oiler/notes/blob/master/bash.md"
         },
+        "slack": {
+            "bp": "https://app.slack.com/client/T033N5Z6Z/C033N5Z79",
+            "rfs": "https://app.slack.com/client/T3V1L6BV3/CDF04M5CY"
+        },
         "feedly": "https://feedly.com/i/my",
         "reader": "https://digg.com/reader/folder/New%20Feeds",
         "awesome": "https://github.com/sindresorhus/awesome",

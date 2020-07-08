@@ -1,0 +1,19 @@
+{
+    "links" : {
+        "SASS": "",
+        "cloudflare": "https://dash.cloudflare.com/",
+
+        "WPENGINE": "",
+        "prod": "https://www.futurenow.org/",
+        "prod admin": "https://www.futurenow.org/wp-admin/",
+        "stage": "https://futurenow.staging.wpengine.com/",
+        "stage admin": "https://futurenow.staging.wpengine.com/wp-admin/",
+        "portal": "https://my.wpengine.com/installs/futurenow",
+
+        "LOCAL": "",
+        "fnf.local": "http://fnf.local/",
+        "local admin": "http://fnf.local/wp-admin/"
+
+    }
+}
+

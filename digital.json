@@ -1,7 +1,11 @@
 { 
     "links" : {
         "groupme": "https://app.groupme.com/chats",
-        "github": "https://github.com/oiler?tab=repositories",
+        "github": {
+            "github": "https://github.com/oiler?tab=repositories",
+            "rfs": "https://github.com/runforsomething",
+            "fnf": "https://github.com/ftrnw"
+        }
         "notes": {
             "notes": "https://github.com/oiler/notes",
             "shortcuts": "https://github.com/oiler/notes/blob/master/shortcuts.md",

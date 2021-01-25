@@ -6,18 +6,17 @@
             "tv": "https://www.nhl.com/tv"
         },
         "scores nd": "http://newsday.sportsdirectinc.com/sports-scores/Hockey-Scores-Matchups.aspx",
-        "fantasy": "https://hockey.fantasysports.yahoo.com/hockey/45745/9",
+        "fantasy": "https://hockey.fantasysports.yahoo.com/hockey/44757/11",
         "espnfantasy": "http://fantasy.espn.com/hockey/team?leagueId=17107&teamId=1",
         "tsn.ca": "http://tsn.ca/nhl",
-        "hockeystats": "http://hockeystats.ca/",
-        "sporting charts": "http://www.sportingcharts.com/nhl/rivalrylisting/",
-        "stat trick": "http://www.naturalstattrick.com/",
-        "games per week": "http://www2.dailyfaceoff.com/nhl-games-per-week/",
+        "sportsdatabase": "http://sportsdatabase.com/nhl/query",
+        "games per week": "https://www.dailyfaceoff.com/nhl-weekly-schedule/",
+        "money puck": "http://moneypuck.com/",
+        "stat cards": "https://hockeystatcards.com/", 
+        "stat trick": "https://www.naturalstattrick.com/",
+        "hockeyviz": "https://hockeyviz.com/team/EDM/2021",
+        "evolving-hockey": "https://evolving-hockey.com/stats/past_games/?_inputs_&dir_pgmchrt=%22Overview%22",
         "goaliepost": "http://goaliepost.com/",
-        "hockeyviz": "http://hockeyviz.com/matchup/",
-        "datarink": "http://datarink.com/#/home",
-        "corsica": "http://www.corsica.hockey/teams/",
-        "corsica pref": "http://corsica.hockey/predictions/",
-        "sportsdatabase": "http://sportsdatabase.com/nhl/query"
+
     }
 }

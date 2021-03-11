@@ -37,9 +37,9 @@
             "drafts": "https://docs.google.com/spreadsheets/d/1DW0EDwsAUBpdwrEfTd2f8FBxqB9Iueki9DgE_bUGibk/"
         },
         "yahoo fantasy": {
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/2135/1",
-            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/7614/11",
-            "vigi": "https://baseball.fantasysports.yahoo.com/b1/1575/5"
+            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/56074/1",
+            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/1618/9",
+            "vigi": "https://baseball.fantasysports.yahoo.com/b1/470/5"
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",
@@ -48,6 +48,7 @@
             "zebra": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8"
         },
         "cbs": {
+            "cbs m": "https://m-abl.baseball.cbssports.com/teams",
             "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/teams",
             "sandlot": "http://thesandlot1519339382.baseball.cbssports.com/teams"
         },
@@ -57,18 +58,7 @@
             "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
             "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/"
         },
-        "mabl": {
-            "mabl": "http://m-abl.baseball.cbssports.com/",
-            "players": "http://m-abl.baseball.cbssports.com/stats/stats-main",
-            "roster": "http://m-abl.baseball.cbssports.com/teams",
-            "live": "http://m-abl.baseball.cbssports.com/scoring/standard"
-        },
-        "galaxy": {
-            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/",
-            "live": "http://agalaxyfarfaraway.baseball.cbssports.com/scoring/standard",
-            "rules": "https://docs.google.com/document/d/1oOb2xx5leS5mqU3j3ShrCOv24yGRWCScOnwvSMwL-lg/",
-            "history": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976"
-        },
+        "glxy hist": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976",
         "vigilante": {
             "vigbds": "http://vbdynasty.proboards.com/",
             "slack": "https://app.slack.com/client/TFES8AMFG/CFCS12ECR",

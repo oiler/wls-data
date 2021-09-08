@@ -9,14 +9,14 @@
         },
         "fantasy": {
             "fan": "http://football.fantasysports.yahoo.com/",
-            "hcfl": "https://football.fantasysports.yahoo.com/f1/4370/6",
-            "drbs": "https://football.fantasysports.yahoo.com/f1/54483/4",
-            "gg": "https://football.fantasysports.yahoo.com/f1/103958/6",
-            "a": "https://football.fantasysports.yahoo.com/f1/897397/6"
+            "hcfl": "https://football.fantasysports.yahoo.com/f1/462656/7",
+            "drbs": "https://football.fantasysports.yahoo.com/f1/187166/5",
+            "gg": "https://football.fantasysports.yahoo.com/f1/88796/6",
+            "rlm": "https://football.fantasysports.yahoo.com/f1/191638/7"
         },
         "espn": {
-            "espn": "https://fantasy.espn.com/football/team?leagueId=1894980&seasonId=2020&teamId=12&fromTeamId=12",
-            "seliminator": "http://fantasy.espn.com/nfl-eliminator-challenge/2018/en/entry?entryID=805710",
+            "espn": "https://fantasy.espn.com/football/team?leagueId=1894980&seasonId=2021&teamId=12&fromTeamId=12",
+            "seliminator": "https://fantasy.espn.com/games/nfl-pigskin-pickem-2021/picks?id=e04a1c70-10ae-11ec-a244-d15f052c8fd4",
             "scores": "http://www.espn.com/nfl/scoreboard"
         },
         "fo": {

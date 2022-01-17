@@ -27,8 +27,8 @@
 	"sofla to nyc": "https://www.google.com/flights/#flt=LAS.PBI,FLL,MIA.2019-11-01;c:USD;e:1;s:0;a:-NK;sd:1;t:f;tt:o",
 	"sofla to las": "https://www.google.com/flights/#flt=PBI,FLL,MIA.LAS;c:USD;e:1;sd:1;t:f;tt:o",
 	"las to sofla": "https://www.google.com/flights/#flt=LAS.PBI,FLL,MIA;c:USD;e:1;s:0;a:-NK;sd:1;t:f;tt:o",
-	"from fla": "https://www.google.com/flights/#search;f=TPA,PBI,FLL,MCO;t=;tt=o;s=0",
-	"to fla": "https://www.google.com/flights/#search;f=;t=TPA,PBI,FLL,MCO;tt=o;s=0",
+	"from fla": "https://www.google.com/travel/flights?tfs=CBwQARpIagwIAhIIL20vMHJxbF9qBwgBEgNGTExqBwgBEgNNSUFqDAgDEggvbS8wcGx5MGoMCAMSCC9tLzBuMXJqEgoyMDIyLTAyLTAycAGCAQsI____________AUABSAGYAQI",
+	"to fla": "https://www.google.com/travel/flights?tfs=CBwQARo-EgoyMDIyLTAyLTAycgwIAxIIL20vMHJxbF9yBwgBEgNGTExyBwgBEgNNSUFyBwgBEgNUUEFyBwgBEgNNQ09wAYIBCwj___________8BQAFIAZgBAg",
 	"google flights": "http://www.google.com/flights/"
 	}
 }

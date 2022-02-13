@@ -34,6 +34,10 @@
         "VAN": "https://evolving-hockey.com/stats/game_logs/?_inputs_&tglog_span=%22Regular%22&sglog_adj=%22No%20Adjustment%22&tglog_table=%22On-Ice%22&gglog_adj=%22Score%20%26%20Venue%22&tglog_season=%2220212022%22&tglog_adj=%22Score%20%26%20Venue%22&tglog_team=%22VAN%22&tglog_str=%225v5%22&dir_glog=%22Team%20Logs%22",
         "VGK": "https://evolving-hockey.com/stats/game_logs/?_inputs_&tglog_span=%22Regular%22&sglog_adj=%22No%20Adjustment%22&tglog_table=%22On-Ice%22&gglog_adj=%22Score%20%26%20Venue%22&tglog_season=%2220212022%22&tglog_adj=%22Score%20%26%20Venue%22&tglog_team=%22VGK%22&tglog_str=%225v5%22&dir_glog=%22Team%20Logs%22",
         "WPG": "https://evolving-hockey.com/stats/game_logs/?_inputs_&tglog_span=%22Regular%22&sglog_adj=%22No%20Adjustment%22&tglog_table=%22On-Ice%22&gglog_adj=%22Score%20%26%20Venue%22&tglog_season=%2220212022%22&tglog_adj=%22Score%20%26%20Venue%22&tglog_team=%22WPG%22&tglog_str=%225v5%22&dir_glog=%22Team%20Logs%22",
-        "WSH": "https://evolving-hockey.com/stats/game_logs/?_inputs_&tglog_span=%22Regular%22&sglog_adj=%22No%20Adjustment%22&tglog_table=%22On-Ice%22&gglog_adj=%22Score%20%26%20Venue%22&tglog_season=%2220212022%22&tglog_adj=%22Score%20%26%20Venue%22&tglog_team=%22WSH%22&tglog_str=%225v5%22&dir_glog=%22Team%20Logs%22"
-        }
+        "WSH": "https://evolving-hockey.com/stats/game_logs/?_inputs_&tglog_span=%22Regular%22&sglog_adj=%22No%20Adjustment%22&tglog_table=%22On-Ice%22&gglog_adj=%22Score%20%26%20Venue%22&tglog_season=%2220212022%22&tglog_adj=%22Score%20%26%20Venue%22&tglog_team=%22WSH%22&tglog_str=%225v5%22&dir_glog=%22Team%20Logs%22",
+    "sheets": "",
+        "nhl21": "https://docs.google.com/spreadsheets/d/1f3qdYT1IGsvf_OkD02i_cFKZvcXwvbGBaBieCgsYyd4/",
+        "airtable games": "https://airtable.com/apprivve6IrJKJybK/tblE2Akwfo8TiPbUe/viwMpwOg9al4jfGsd?blocks=hide",
+        "at goal proj": "https://airtable.com/appolUYqRacaSXeRd/tblyP5SyApd3RE6Ou/viwRZvFoHQHEa6jPu?blocks=hide"
+    } 
 }

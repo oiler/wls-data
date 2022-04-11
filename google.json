@@ -1,5 +1,6 @@
 { 
     "links" : {
+        "keep": "https://keep.google.com",
         "tech dev": "https://www.google.com/about/careers/students/guide-to-technical-development.html",
         "gmail": {
             "gmail": "https://gmail.google.com/",

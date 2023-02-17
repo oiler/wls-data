@@ -37,15 +37,15 @@
             "drafts": "https://docs.google.com/spreadsheets/d/1DW0EDwsAUBpdwrEfTd2f8FBxqB9Iueki9DgE_bUGibk/"
         },
         "yahoo fantasy": {
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/87125/1",
-            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/2606/8",
-            "vigi": "https://baseball.fantasysports.yahoo.com/b1/1909/5"
+            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/46877/1",
+            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/1276/8",
+            "vigi": "https://baseball.fantasysports.yahoo.com/b1/2668/5"
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",
             "uandi": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
             "hhm": "https://fantasy.espn.com/baseball/team?leagueId=2779322&teamId=7",
-            "zebra": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8"
+            "sand": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8"
         },
         "cbs": {
             "cbs m": "https://m-abl.baseball.cbssports.com/",
@@ -53,10 +53,9 @@
             "sandlot": "http://thesandlot1519339382.baseball.cbssports.com/teams"
         },
         "uandi docs": {
-            "u&i": "https://www.facebook.com/groups/398888906854580/",
-            "auction": "https://www.facebook.com/groups/758068644398419/",
-            "folder": "https://drive.google.com/drive/u/0/folders/0B2vI81nGIHERTjU2eFM3X1g4eUE",
-            "compendium": "https://docs.google.com/spreadsheets/d/1gbAEiP-16wTllxZtGlNii4tpOQeAmB0vkMIGbYoS49w/"
+            "folder": "https://drive.google.com/drive/folders/1qaFPkSGn37_reekPmddNHWiNZIAlKln0",
+            "tt": "https://docs.google.com/spreadsheets/d/1LmxYxzllfn4nsqx6ocKrt-JElCSQmQMEYcCI9zTJt0k/edit#gid=2054307044",
+            "compendium": "https://docs.google.com/spreadsheets/d/1tYsDNB1KOIyeJsSln62kSAXzXTWEywZlMDHe66OmqCQ/edit#gid=861683482"
         },
         "glxy hist": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976",
         "vigilante": {
